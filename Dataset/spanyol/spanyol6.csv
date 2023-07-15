@@ -1,0 +1,463 @@
+HomeTeam,AwayTeam,HS,AS,HST,AST,HC,AC,HF,AF,HY,AY,HR,AR,HTHG,HTAG,FTR
+Lugo,Extremadura UD,10,13,3,3,5,9,11,15,1,1,0,0,0,0,D
+Santander,Malaga,11,5,2,4,6,4,14,14,3,2,1,0,0,0,A
+Almeria,Albacete,13,2,5,0,7,0,21,19,1,1,0,0,0,0,H
+Elche,Fuenlabrada,5,10,1,4,4,5,14,26,2,3,0,0,0,2,A
+Vallecano,Mirandes,15,11,6,3,7,3,11,11,2,4,1,1,2,1,D
+Zaragoza,Tenerife,15,16,8,5,1,4,16,18,1,3,0,1,1,0,H
+La Coruna,Oviedo,12,14,5,4,2,7,13,19,0,3,0,0,1,0,H
+Numancia,Alcorcon,6,12,1,6,6,3,19,19,2,6,0,0,0,0,A
+Girona,Sp Gijon,21,10,6,5,4,5,11,12,2,1,0,1,0,0,D
+Cadiz,Ponferradina,11,6,3,2,6,4,18,17,1,2,0,1,0,1,H
+Las Palmas,Huesca,9,9,1,6,7,3,14,19,3,3,0,0,0,0,A
+Albacete,Girona,6,11,1,1,4,3,16,16,3,2,0,0,0,0,H
+Oviedo,Lugo,12,24,5,9,4,10,12,13,2,5,1,1,1,0,D
+Santander,Almeria,8,14,2,5,3,3,14,22,2,2,0,0,1,0,D
+Mirandes,Cadiz,9,14,1,5,6,3,13,15,4,1,1,0,0,0,A
+Alcorcon,Elche,20,4,7,3,10,4,18,21,5,1,1,0,1,0,A
+Malaga,Las Palmas,12,12,3,2,9,3,15,14,1,4,0,0,0,0,D
+Ponferradina,Zaragoza,14,8,4,3,2,4,10,15,2,1,0,0,0,0,D
+Sp Gijon,Vallecano,3,19,2,4,1,5,21,18,5,5,1,1,1,0,D
+Huesca,La Coruna,10,8,6,1,1,2,14,20,1,2,0,0,2,0,H
+Tenerife,Numancia,10,11,4,5,5,4,15,8,3,0,0,0,1,0,H
+Extremadura UD,Fuenlabrada,13,15,4,6,3,4,10,12,1,4,0,0,0,1,A
+Zaragoza,Elche,19,3,5,1,6,3,15,12,4,1,0,0,0,0,H
+Fuenlabrada,Oviedo,13,9,5,5,7,5,20,12,0,1,0,1,1,1,H
+Numancia,Mirandes,16,10,5,2,6,1,15,13,2,0,0,0,0,0,H
+Almeria,Huesca,12,9,5,1,6,6,18,13,2,2,0,0,1,0,H
+Las Palmas,Santander,13,7,5,3,9,0,18,21,5,3,1,0,0,1,D
+Lugo,Alcorcon,18,12,7,8,11,3,9,12,2,3,0,0,1,2,A
+Sp Gijon,Albacete,14,8,5,2,3,3,26,19,2,3,0,0,0,0,H
+Vallecano,La Coruna,8,8,4,3,5,8,18,9,1,1,0,0,2,1,H
+Girona,Malaga,9,10,2,1,3,5,16,13,3,3,0,0,1,0,H
+Ponferradina,Tenerife,11,9,5,2,5,6,11,11,2,3,0,0,1,0,H
+Cadiz,Extremadura UD,19,6,5,2,14,4,17,21,3,2,0,0,1,0,H
+Santander,Cadiz,16,12,5,5,3,1,16,19,3,4,1,0,0,1,A
+La Coruna,Albacete,17,11,7,1,3,1,14,17,1,5,0,1,0,0,A
+Malaga,Almeria,13,14,4,4,4,3,15,13,4,4,0,0,0,1,A
+Extremadura UD,Numancia,22,5,8,1,12,5,18,19,1,4,0,2,0,0,D
+Fuenlabrada,Ponferradina,19,3,3,2,7,2,11,21,2,2,0,0,0,1,D
+Tenerife,Las Palmas,9,10,2,2,6,4,15,10,2,5,1,0,0,0,D
+Huesca,Sp Gijon,6,12,3,4,2,1,18,14,3,3,0,1,0,0,H
+Girona,Vallecano,17,13,8,5,4,4,10,17,1,4,0,0,1,0,H
+Elche,Lugo,13,5,4,4,1,3,18,23,3,3,0,0,1,0,D
+Mirandes,Oviedo,18,7,6,1,9,4,14,12,1,1,0,1,1,1,H
+Alcorcon,Zaragoza,8,16,3,5,8,9,13,11,1,2,0,0,0,2,A
+Vallecano,Santander,20,4,4,0,12,3,21,16,4,2,1,1,1,0,H
+Mirandes,Malaga,15,9,4,1,6,4,10,16,2,3,0,0,0,0,D
+Numancia,Huesca,8,13,3,4,2,10,18,14,2,3,0,0,0,0,H
+Las Palmas,Almeria,9,10,0,6,4,5,11,26,3,4,0,0,0,1,A
+Cadiz,Girona,8,10,1,1,3,3,16,7,3,2,0,1,1,0,H
+Ponferradina,Alcorcon,17,8,6,3,5,5,12,25,1,5,0,2,1,0,D
+Albacete,Tenerife,7,14,4,7,3,3,20,25,6,3,0,0,0,2,A
+Oviedo,Elche,9,7,2,3,6,4,28,25,2,2,2,0,0,1,A
+Zaragoza,Extremadura UD,16,17,9,5,6,5,14,9,1,1,0,0,1,0,H
+Lugo,Fuenlabrada,8,17,3,4,6,6,10,13,1,4,0,0,2,0,H
+Sp Gijon,La Coruna,7,12,4,3,1,3,21,21,4,4,0,0,1,0,D
+Almeria,Girona,17,7,7,1,1,4,18,14,3,4,0,1,1,0,H
+Malaga,Vallecano,11,14,2,3,4,6,14,13,2,2,0,0,1,0,D
+Santander,Mirandes,17,11,8,2,5,4,17,20,1,4,0,1,2,0,H
+Alcorcon,Cadiz,13,3,7,1,3,4,15,19,5,6,0,3,1,0,H
+Huesca,Albacete,20,7,6,2,10,1,13,23,1,7,0,0,0,1,A
+Lugo,Ponferradina,10,12,5,4,2,8,13,17,2,4,0,0,2,0,D
+La Coruna,Numancia,17,12,4,4,5,5,15,18,3,0,1,0,0,1,D
+Elche,Tenerife,9,8,2,2,4,5,15,16,2,0,0,0,1,0,D
+Oviedo,Extremadura UD,14,13,5,3,7,3,15,16,3,4,0,0,0,0,D
+Las Palmas,Sp Gijon,9,6,5,2,7,4,19,20,4,5,0,0,0,0,H
+Mirandes,Alcorcon,16,9,4,2,7,3,20,8,3,4,0,0,2,1,D
+Cadiz,La Coruna,14,7,4,3,12,0,9,25,2,2,0,0,0,0,D
+Zaragoza,Lugo,25,5,4,2,8,3,11,12,1,4,0,0,0,0,D
+Vallecano,Almeria,14,4,5,1,8,0,11,24,1,1,0,0,0,0,D
+Albacete,Malaga,6,14,3,5,2,7,12,14,2,2,0,0,0,0,H
+Ponferradina,Oviedo,12,8,2,5,3,4,22,20,2,3,0,0,0,0,H
+Girona,Las Palmas,10,12,3,4,3,6,18,13,2,1,0,0,0,0,H
+Numancia,Elche,17,10,4,6,3,7,14,19,1,2,1,0,1,1,D
+Sp Gijon,Santander,14,8,4,3,4,8,21,17,5,2,0,0,1,0,D
+Extremadura UD,Huesca,17,11,8,3,10,5,11,19,1,4,0,0,0,1,A
+Tenerife,Fuenlabrada,15,11,1,4,8,5,20,12,5,2,1,0,0,0,A
+Las Palmas,Albacete,10,7,4,4,5,3,24,15,4,4,0,0,2,0,H
+Fuenlabrada,Vallecano,12,12,5,4,7,4,12,17,1,6,0,0,0,1,D
+Alcorcon,Extremadura UD,14,11,3,4,4,5,19,19,3,3,1,0,0,0,A
+Huesca,Girona,18,7,8,0,5,6,8,17,2,5,0,0,1,0,H
+Elche,Ponferradina,10,8,2,4,9,0,28,18,5,3,0,0,1,0,H
+Santander,Numancia,13,12,4,2,5,6,16,16,2,2,0,0,0,0,D
+Malaga,Sp Gijon,14,8,4,5,13,3,20,16,2,1,0,0,0,0,D
+Almeria,Cadiz,7,10,3,3,1,6,20,16,2,3,0,1,0,0,A
+Oviedo,Zaragoza,15,13,5,4,6,5,12,17,4,3,0,0,1,1,D
+La Coruna,Mirandes,8,11,3,4,5,6,20,10,2,1,0,0,0,0,D
+Lugo,Tenerife,14,8,6,5,9,3,12,21,2,4,0,0,1,2,A
+Albacete,Santander,11,4,2,3,5,4,17,26,2,5,0,0,0,0,D
+Extremadura UD,Elche,16,5,8,1,5,2,17,17,2,5,0,1,0,0,H
+Numancia,Fuenlabrada,7,13,3,6,2,6,8,16,4,5,1,0,1,0,H
+Vallecano,Alcorcon,11,9,5,4,8,3,24,18,7,5,0,0,1,0,D
+Cadiz,Huesca,13,7,4,4,5,6,14,15,0,2,0,0,0,0,H
+Mirandes,Lugo,17,6,5,2,6,2,14,16,4,1,0,0,0,0,D
+Ponferradina,Las Palmas,17,8,5,4,3,3,12,24,3,7,0,0,0,1,A
+Tenerife,Oviedo,12,7,2,1,6,1,12,11,4,4,0,0,0,1,A
+Sp Gijon,Almeria,17,9,7,3,4,3,17,14,1,4,0,0,4,1,H
+Zaragoza,Malaga,17,12,8,2,9,7,4,12,2,4,0,0,1,1,D
+Girona,La Coruna,15,9,5,4,8,2,14,10,3,3,0,0,2,0,H
+Alcorcon,Albacete,13,6,2,3,4,3,21,23,2,4,0,0,0,0,A
+Lugo,Las Palmas,6,12,3,5,2,6,19,16,2,5,0,0,0,0,A
+Elche,Vallecano,11,17,3,4,2,6,11,19,2,2,0,0,0,0,D
+Ponferradina,Mirandes,8,13,3,0,1,5,22,13,2,3,0,0,1,0,H
+Tenerife,Extremadura UD,19,16,4,7,5,3,10,13,4,1,1,0,1,1,A
+Fuenlabrada,Sp Gijon,9,10,3,0,1,2,18,12,3,6,0,0,0,0,H
+Oviedo,Numancia,13,14,3,4,6,6,15,12,2,3,0,0,1,0,D
+Zaragoza,Cadiz,16,13,3,4,5,6,9,18,2,3,0,0,0,0,A
+La Coruna,Almeria,15,5,7,0,12,0,16,18,3,2,1,0,0,0,D
+Huesca,Malaga,13,10,5,1,5,7,21,14,2,3,0,1,2,0,H
+Santander,Girona,8,9,0,3,2,3,13,22,2,5,0,0,0,1,A
+Vallecano,Tenerife,15,7,4,1,8,6,19,22,3,3,0,0,1,1,H
+Girona,Elche,18,11,5,4,7,3,15,12,4,2,0,0,0,1,A
+Almeria,Lugo,16,11,5,3,5,3,23,11,4,4,0,0,0,0,D
+Sp Gijon,Alcorcon,20,10,5,6,5,0,18,17,5,2,0,0,0,3,A
+Extremadura UD,Ponferradina,14,13,2,4,5,6,16,18,5,2,0,0,1,0,D
+Malaga,Cadiz,13,7,3,4,4,0,12,13,2,2,0,0,0,1,A
+Mirandes,Fuenlabrada,9,8,2,2,3,7,13,21,2,2,0,0,1,0,H
+Numancia,Zaragoza,9,14,2,5,3,2,16,12,0,3,0,0,0,0,A
+Albacete,Oviedo,12,14,5,6,6,8,18,15,2,2,0,0,1,0,A
+Huesca,Santander,20,11,5,2,8,5,9,10,0,1,0,0,0,0,D
+Las Palmas,La Coruna,13,7,7,1,5,8,11,13,4,3,0,0,2,0,H
+Fuenlabrada,Zaragoza,9,11,5,2,3,2,21,14,3,5,0,0,1,0,H
+Cadiz,Las Palmas,7,18,2,4,3,4,15,10,2,3,0,0,1,0,H
+Alcorcon,Almeria,10,10,4,5,5,5,23,15,7,4,1,1,1,0,D
+Ponferradina,Numancia,12,14,3,2,5,7,10,16,2,3,0,0,1,0,D
+Elche,Sp Gijon,12,8,2,2,5,7,10,21,2,5,0,0,0,1,A
+Lugo,Huesca,8,18,5,6,4,10,14,19,4,5,1,1,2,0,H
+Extremadura UD,Vallecano,12,12,4,5,4,2,20,23,5,4,0,0,0,1,A
+Fuenlabrada,Albacete,11,5,0,2,4,4,15,21,2,4,0,0,0,0,A
+La Coruna,Malaga,10,17,2,9,7,6,11,17,1,1,0,0,0,1,A
+Oviedo,Girona,9,12,4,4,5,6,18,22,2,4,0,1,2,1,H
+Tenerife,Santander,16,12,8,7,2,4,14,17,1,5,0,0,2,1,D
+Zaragoza,Mirandes,16,10,2,5,9,2,15,15,2,1,0,0,0,1,A
+Albacete,Cadiz,11,7,4,2,6,2,15,13,2,2,0,0,0,0,H
+Vallecano,Ponferradina,16,7,4,3,13,5,16,11,2,2,1,0,0,1,A
+Mirandes,Tenerife,11,14,2,1,2,7,11,7,3,1,0,0,0,0,D
+Santander,La Coruna,9,15,1,2,2,4,21,21,2,3,0,0,1,0,D
+Malaga,Oviedo,22,9,7,5,7,1,18,14,7,5,0,1,0,0,H
+Numancia,Lugo,21,11,10,3,7,6,12,14,2,3,0,0,1,1,H
+Girona,Alcorcon,8,7,3,0,2,0,17,20,4,5,0,0,0,0,D
+Sp Gijon,Zaragoza,14,9,6,2,1,5,9,15,0,2,0,1,2,0,H
+Huesca,Elche,19,8,7,3,4,7,15,21,3,4,0,0,1,0,H
+Las Palmas,Fuenlabrada,19,7,3,4,9,2,15,17,4,6,0,1,0,2,A
+Almeria,Extremadura UD,12,13,4,5,4,3,15,16,2,0,0,0,0,0,H
+Numancia,Albacete,12,12,2,2,8,2,14,15,2,5,0,1,0,0,H
+Cadiz,Sp Gijon,10,12,5,2,6,6,16,12,3,4,0,0,1,0,H
+Ponferradina,Malaga,14,12,6,2,1,3,17,15,1,2,0,0,0,0,H
+Oviedo,Almeria,15,6,1,1,5,3,20,27,1,3,0,0,0,0,D
+Fuenlabrada,La Coruna,10,6,1,1,3,2,14,26,1,3,0,0,1,0,D
+Alcorcon,Santander,12,12,3,2,5,5,20,11,5,4,0,0,1,0,H
+Tenerife,Huesca,9,11,1,3,2,1,18,13,4,2,1,0,0,0,D
+Extremadura UD,Girona,19,11,3,5,7,2,13,15,3,3,0,0,0,2,A
+Lugo,Vallecano,6,20,2,5,4,8,14,14,0,1,0,0,0,0,H
+Zaragoza,Las Palmas,14,12,7,6,4,6,13,16,2,5,0,1,2,0,H
+Elche,Mirandes,8,14,4,7,5,7,21,15,2,3,0,0,2,1,H
+Girona,Tenerife,17,7,5,0,2,7,13,17,2,6,0,1,0,0,H
+Huesca,Oviedo,14,9,7,4,7,4,13,15,2,3,0,0,2,1,H
+Mirandes,Extremadura UD,15,11,6,2,6,6,13,13,3,2,1,0,1,0,H
+Albacete,Lugo,15,4,5,2,8,1,20,21,2,2,0,0,0,0,A
+Sp Gijon,Numancia,16,13,2,4,9,2,25,16,2,3,0,0,0,1,A
+Las Palmas,Alcorcon,10,5,3,2,4,2,15,15,2,1,0,0,1,1,D
+La Coruna,Elche,17,11,5,5,6,3,25,11,4,4,0,0,1,1,A
+Almeria,Zaragoza,10,10,3,2,6,3,13,20,4,3,0,0,1,0,D
+Malaga,Fuenlabrada,15,7,4,0,10,2,20,22,3,3,0,0,0,0,D
+Santander,Ponferradina,8,14,4,7,2,4,15,16,5,3,1,0,0,0,D
+Vallecano,Cadiz,16,8,6,5,4,7,17,11,5,3,0,0,0,1,D
+Fuenlabrada,Huesca,9,12,2,4,3,7,17,12,3,2,0,0,1,0,H
+Extremadura UD,La Coruna,15,10,4,5,5,3,20,12,3,2,0,0,2,0,H
+Elche,Almeria,4,16,1,4,4,8,13,17,2,2,0,0,0,0,D
+Numancia,Vallecano,13,14,4,4,4,6,9,16,1,3,0,0,1,1,D
+Zaragoza,Albacete,15,6,7,2,7,2,9,22,1,2,0,0,0,0,A
+Ponferradina,Girona,19,7,5,5,8,1,11,11,2,0,0,0,0,0,D
+Alcorcon,Malaga,12,14,6,3,4,5,15,11,3,1,0,0,1,0,H
+Oviedo,Sp Gijon,7,9,2,3,1,6,16,29,3,4,0,0,0,0,D
+Lugo,Santander,8,14,2,8,4,3,13,17,2,3,0,0,0,1,D
+Mirandes,Las Palmas,15,6,7,3,5,1,16,20,2,6,0,0,2,1,H
+Tenerife,Cadiz,17,8,3,2,5,4,17,12,1,3,0,0,1,1,D
+Sp Gijon,Tenerife,13,7,5,3,4,2,25,20,9,3,1,0,0,0,A
+Vallecano,Zaragoza,21,7,6,4,8,2,18,12,1,4,0,0,0,0,A
+La Coruna,Alcorcon,11,6,2,2,5,0,16,19,3,1,0,0,0,0,D
+Santander,Extremadura UD,10,20,5,8,2,13,18,19,2,2,0,0,1,0,H
+Huesca,Ponferradina,10,11,6,2,3,2,12,17,3,3,0,1,1,0,H
+Almeria,Numancia,11,17,5,4,2,10,18,17,4,4,1,0,2,0,H
+Albacete,Mirandes,13,7,5,3,12,2,15,11,4,2,0,0,1,2,A
+Malaga,Elche,25,14,9,4,7,5,20,11,4,6,0,0,1,2,D
+Girona,Fuenlabrada,13,7,3,2,2,3,18,17,2,2,0,0,0,0,H
+Las Palmas,Oviedo,13,14,6,7,10,4,18,13,2,3,0,0,2,0,H
+Cadiz,Lugo,17,8,7,2,8,2,15,10,1,2,0,0,1,1,H
+Numancia,Malaga,17,10,2,2,4,8,13,16,3,0,0,0,0,0,D
+Alcorcon,Huesca,13,9,2,5,1,7,17,15,3,1,0,0,0,0,A
+Mirandes,Sp Gijon,10,12,1,3,7,3,15,15,2,1,0,0,0,0,D
+Ponferradina,Albacete,13,8,2,5,2,6,17,19,1,3,0,0,0,1,D
+Tenerife,Almeria,12,12,2,6,6,3,17,12,5,1,0,0,1,2,A
+Zaragoza,Girona,17,16,6,5,4,3,10,9,2,3,0,0,1,2,D
+Fuenlabrada,Cadiz,11,6,4,0,3,1,15,12,5,5,0,1,0,0,H
+Oviedo,Vallecano,7,9,3,2,1,3,13,15,2,4,0,0,1,1,H
+Elche,Santander,15,13,3,3,5,5,20,18,2,4,0,0,1,0,H
+Lugo,La Coruna,14,12,2,3,7,5,9,13,2,3,0,0,0,0,D
+Extremadura UD,Las Palmas,12,15,3,5,3,5,16,15,3,7,0,1,0,1,A
+Albacete,Extremadura UD,11,11,3,4,10,4,12,18,3,4,0,0,0,0,D
+Santander,Fuenlabrada,8,17,3,8,4,8,13,16,4,3,1,0,1,0,D
+Alcorcon,Oviedo,11,8,1,4,6,0,15,21,2,2,0,0,1,2,A
+Malaga,Tenerife,11,11,5,1,2,4,7,13,1,3,0,0,1,0,H
+Huesca,Vallecano,15,13,7,9,5,1,16,15,4,3,0,0,0,1,A
+Sp Gijon,Ponferradina,13,14,6,2,5,4,20,12,2,4,0,1,0,0,H
+Almeria,Mirandes,12,6,6,3,5,6,11,10,4,3,1,1,0,1,H
+Girona,Lugo,13,12,4,5,11,4,17,12,2,4,0,1,1,0,H
+La Coruna,Zaragoza,14,17,6,10,3,9,14,15,1,2,0,0,0,2,A
+Las Palmas,Numancia,13,9,4,4,3,7,18,16,4,4,0,0,2,0,H
+Cadiz,Elche,14,7,2,1,8,1,14,16,2,2,0,0,0,0,D
+Numancia,Girona,11,15,5,5,3,3,20,13,6,1,0,0,1,0,H
+Mirandes,Huesca,8,9,7,3,5,7,20,11,3,4,0,0,0,0,H
+Ponferradina,La Coruna,18,4,4,3,4,2,13,17,2,3,0,1,2,0,H
+Tenerife,Alcorcon,8,9,2,2,6,1,23,15,4,4,0,0,0,0,D
+Zaragoza,Santander,13,4,6,1,4,0,12,13,2,4,0,0,1,0,H
+Extremadura UD,Malaga,11,9,3,1,7,5,15,12,2,2,0,0,0,0,D
+Oviedo,Cadiz,13,7,3,4,4,9,13,15,3,1,0,0,0,1,A
+Elche,Las Palmas,6,19,5,10,3,4,18,14,3,1,0,0,2,0,A
+Lugo,Sp Gijon,9,12,2,4,3,3,14,21,2,3,1,0,0,1,A
+Fuenlabrada,Almeria,8,10,2,4,4,1,14,21,1,5,0,0,0,0,D
+La Coruna,Tenerife,11,9,3,3,2,3,23,16,4,1,0,0,1,0,H
+Albacete,Elche,22,12,4,3,10,7,18,15,3,3,0,0,0,0,A
+Malaga,Lugo,12,12,3,5,5,3,17,13,5,4,0,0,1,0,D
+Las Palmas,Vallecano,20,4,6,1,3,4,12,17,3,3,0,1,1,1,D
+Sp Gijon,Extremadura UD,11,5,1,1,4,2,10,19,2,1,0,0,0,0,A
+Santander,Oviedo,16,13,5,6,9,2,19,16,2,5,1,1,1,1,D
+Cadiz,Numancia,13,12,3,4,10,3,15,13,5,1,1,0,1,1,A
+Almeria,Ponferradina,18,16,7,5,7,2,21,16,4,1,0,0,1,0,A
+Huesca,Zaragoza,8,7,2,1,5,5,9,12,3,4,0,2,1,1,H
+Alcorcon,Fuenlabrada,8,8,3,2,6,6,20,24,5,3,0,0,1,0,D
+Girona,Mirandes,20,12,8,6,7,4,11,16,1,2,0,0,0,1,A
+Extremadura UD,Alcorcon,10,12,0,4,7,5,11,20,3,1,1,0,0,0,D
+Fuenlabrada,Las Palmas,7,9,0,2,4,4,18,16,2,5,1,0,0,0,D
+Ponferradina,Cadiz,11,13,7,4,3,5,16,11,0,4,0,1,0,0,D
+Lugo,Almeria,9,16,1,7,7,7,15,12,2,1,0,0,0,2,A
+Tenerife,Albacete,14,10,9,2,7,2,19,16,1,2,0,0,2,0,H
+Elche,Huesca,10,7,4,5,6,4,13,13,3,3,0,0,0,0,D
+Mirandes,Santander,11,13,3,5,3,11,14,22,2,1,0,0,0,0,D
+Numancia,La Coruna,13,15,2,7,4,7,11,14,2,2,1,0,0,0,A
+Vallecano,Girona,13,11,4,4,3,4,19,16,3,3,0,0,1,0,H
+Oviedo,Malaga,14,15,3,2,2,4,20,15,4,3,0,0,1,0,D
+Zaragoza,Sp Gijon,14,12,4,4,2,4,8,19,2,2,0,1,1,0,H
+Albacete,Fuenlabrada,7,8,3,2,2,5,12,14,5,3,0,0,1,0,D
+Sp Gijon,Elche,10,10,4,2,5,7,17,7,2,2,0,0,0,0,H
+Malaga,Ponferradina,6,7,2,3,2,2,21,17,4,3,0,0,1,0,H
+Las Palmas,Zaragoza,10,8,4,2,4,6,18,12,3,0,0,0,0,0,A
+Alcorcon,Numancia,25,13,9,4,4,6,16,13,3,2,0,0,0,0,D
+Huesca,Tenerife,13,13,5,5,1,5,17,18,1,3,0,0,2,1,H
+Vallecano,Lugo,11,4,5,2,5,1,16,11,4,3,0,0,1,0,H
+Cadiz,Mirandes,11,8,4,6,6,2,18,17,0,1,0,0,1,1,D
+La Coruna,Santander,15,19,8,8,5,7,20,21,6,1,1,0,1,1,H
+Girona,Extremadura UD,11,13,6,2,6,2,22,16,4,3,0,0,2,0,H
+Almeria,Oviedo,11,7,3,0,5,1,13,14,3,0,0,0,0,0,H
+Fuenlabrada,Malaga,13,1,1,0,5,0,18,14,2,4,0,0,0,0,D
+Numancia,Sp Gijon,7,20,2,3,2,5,19,15,1,3,0,0,1,0,H
+Lugo,Albacete,7,16,4,3,3,11,17,10,5,4,0,0,0,0,H
+Ponferradina,Vallecano,12,8,5,5,4,2,21,19,4,4,0,0,0,0,D
+Elche,Alcorcon,14,9,5,2,8,2,12,29,2,3,0,1,1,0,D
+La Coruna,Cadiz,8,12,1,2,0,4,13,18,2,3,0,0,0,0,H
+Oviedo,Huesca,12,9,3,4,5,4,17,18,3,3,0,0,0,0,D
+Santander,Las Palmas,9,8,3,3,2,9,15,15,3,0,0,0,0,0,D
+Extremadura UD,Almeria,21,9,9,4,9,5,18,11,2,4,0,0,1,1,A
+Tenerife,Girona,6,15,3,4,2,2,24,13,4,1,0,0,1,0,H
+Cadiz,Santander,18,2,2,0,7,1,15,17,4,3,0,1,0,0,H
+Huesca,Lugo,22,6,6,3,12,0,15,12,2,2,0,0,0,1,H
+Sp Gijon,Fuenlabrada,9,16,3,3,3,8,21,19,4,2,0,0,1,0,H
+Las Palmas,Tenerife,18,6,3,2,7,2,9,17,3,4,0,1,0,0,D
+Zaragoza,Numancia,17,11,7,5,4,2,16,9,4,1,0,0,0,0,H
+Malaga,Mirandes,16,13,4,3,7,4,11,12,2,2,0,0,1,0,D
+Albacete,La Coruna,20,5,6,4,11,2,17,14,3,4,0,0,0,1,A
+Almeria,Elche,11,9,3,6,6,2,12,14,4,5,1,0,0,0,A
+Alcorcon,Ponferradina,9,10,5,4,5,4,17,17,2,3,0,0,2,0,H
+Vallecano,Extremadura UD,4,4,1,3,7,3,20,26,3,3,0,0,0,0,D
+Girona,Oviedo,14,5,5,1,5,3,18,21,1,4,0,0,0,0,D
+Tenerife,Sp Gijon,6,18,4,4,2,7,14,13,0,1,0,0,2,0,H
+Extremadura UD,Lugo,9,12,5,1,4,5,15,5,0,1,1,1,1,0,H
+La Coruna,Las Palmas,9,8,3,2,2,7,14,12,0,4,0,0,1,0,H
+Ponferradina,Huesca,15,8,6,3,5,3,24,19,2,5,0,0,2,0,H
+Elche,Malaga,11,9,4,3,8,3,14,9,2,2,0,0,1,0,H
+Fuenlabrada,Girona,8,11,4,4,6,3,18,20,4,5,1,0,0,1,A
+Cadiz,Zaragoza,20,4,9,3,7,2,13,16,3,2,0,0,0,0,D
+Mirandes,Vallecano,7,10,2,4,2,9,12,18,1,1,0,0,0,0,D
+Numancia,Almeria,12,16,4,2,4,8,15,15,3,4,0,0,0,0,D
+Oviedo,Albacete,13,13,6,4,9,5,19,25,5,3,0,0,1,1,H
+Santander,Alcorcon,20,10,3,4,5,0,17,14,1,3,0,1,0,1,D
+Almeria,Santander,6,6,4,2,6,2,14,12,2,3,0,0,0,1,A
+Extremadura UD,Tenerife,15,17,6,7,5,1,12,13,4,1,1,0,0,2,A
+Girona,Huesca,16,5,8,1,6,3,17,17,4,3,0,1,0,0,H
+Las Palmas,Cadiz,26,4,9,3,16,1,12,14,2,1,0,0,0,1,A
+Zaragoza,Fuenlabrada,13,10,2,0,6,3,15,15,4,3,0,0,0,0,D
+Albacete,Ponferradina,18,8,4,4,4,6,12,13,5,1,0,0,0,1,D
+Alcorcon,La Coruna,19,5,5,2,7,1,14,10,1,4,0,0,0,0,A
+Sp Gijon,Mirandes,18,4,8,3,7,2,10,17,1,2,0,0,1,1,D
+Lugo,Elche,10,14,3,3,1,5,24,13,4,3,0,0,1,0,D
+Vallecano,Oviedo,12,11,5,3,6,3,18,14,4,3,1,0,0,1,D
+Malaga,Numancia,20,6,6,1,7,2,14,23,3,4,0,0,0,1,H
+La Coruna,Girona,6,20,3,6,1,8,10,14,4,2,1,0,1,0,D
+Huesca,Almeria,21,8,8,3,6,3,11,16,0,3,0,0,2,0,H
+Numancia,Las Palmas,10,14,5,5,9,3,13,10,1,2,0,0,0,0,D
+Oviedo,Alcorcon,20,13,6,6,8,3,24,24,3,5,0,0,0,2,A
+Elche,Zaragoza,6,16,2,7,1,2,14,16,3,2,0,0,1,2,A
+Fuenlabrada,Lugo,14,4,3,1,5,1,18,32,4,4,0,0,0,0,A
+Mirandes,Albacete,9,13,2,5,2,4,16,20,4,6,1,1,1,1,D
+Cadiz,Malaga,10,7,0,2,9,3,19,21,4,4,0,0,0,0,A
+Ponferradina,Extremadura UD,16,9,3,0,6,1,10,19,2,6,0,1,0,0,D
+Santander,Sp Gijon,6,13,2,6,2,6,6,18,1,3,0,0,0,1,A
+Tenerife,Vallecano,12,12,3,3,4,5,16,17,1,4,0,0,0,0,D
+Mirandes,Zaragoza,5,15,2,2,2,5,15,10,5,3,0,0,0,1,D
+Sp Gijon,Cadiz,13,15,2,3,4,10,14,11,2,5,0,1,0,0,H
+Alcorcon,Las Palmas,8,7,1,3,4,4,22,17,3,4,0,0,1,1,D
+Almeria,Fuenlabrada,6,7,0,0,2,4,20,26,1,1,0,0,0,0,D
+Girona,Ponferradina,14,5,5,0,4,3,18,14,3,2,0,0,2,0,H
+Tenerife,Elche,13,7,5,1,2,4,19,12,2,5,0,0,1,0,H
+Albacete,Numancia,15,7,8,1,9,1,21,16,3,3,0,0,0,1,H
+Lugo,Oviedo,4,7,1,2,3,7,17,12,3,3,0,0,1,0,H
+Zaragoza,La Coruna,15,12,5,2,8,7,11,13,2,5,0,1,2,1,H
+Extremadura UD,Mirandes,20,13,6,7,7,7,11,17,3,3,0,0,0,0,H
+Malaga,Santander,16,7,5,1,8,4,19,16,1,1,0,0,2,0,H
+Vallecano,Huesca,21,9,5,4,8,5,24,17,3,4,0,0,0,0,H
+Las Palmas,Malaga,12,15,7,4,3,3,14,16,4,3,0,0,0,0,D
+Huesca,Extremadura UD,11,9,6,5,6,3,15,17,3,3,0,0,1,1,D
+Ponferradina,Sp Gijon,11,12,3,5,6,3,14,15,2,2,0,0,1,0,H
+Cadiz,Almeria,7,8,1,2,2,3,21,18,2,2,0,0,1,1,H
+Albacete,Vallecano,11,7,2,5,4,4,15,21,3,2,0,0,1,1,D
+Santander,Zaragoza,16,9,3,4,5,3,21,17,3,4,1,1,0,0,D
+Mirandes,Girona,9,11,3,6,4,5,11,23,2,2,0,0,0,0,D
+Elche,Numancia,15,6,5,2,11,3,15,16,2,1,0,1,1,0,H
+La Coruna,Lugo,9,8,3,1,4,5,10,14,0,1,0,0,0,0,D
+Fuenlabrada,Alcorcon,10,18,4,9,6,5,12,11,5,2,2,0,1,3,A
+Oviedo,Tenerife,10,9,4,1,2,2,18,13,3,6,0,0,0,0,H
+Lugo,Cadiz,21,5,7,1,5,2,23,10,2,4,0,1,0,1,D
+Extremadura UD,Oviedo,16,11,5,5,7,3,14,15,2,4,0,0,0,1,A
+Girona,Albacete,6,9,3,2,2,1,25,30,4,2,0,0,1,0,D
+Huesca,Fuenlabrada,9,4,5,1,6,0,20,21,3,1,0,0,2,0,H
+Numancia,Santander,14,7,3,3,7,2,23,15,2,6,0,1,0,0,A
+Almeria,La Coruna,15,13,8,2,5,5,13,4,1,2,0,0,2,0,H
+Vallecano,Elche,17,12,9,5,3,4,20,13,3,3,1,0,1,0,A
+Malaga,Zaragoza,16,10,3,4,11,4,14,10,2,3,0,0,0,0,A
+Alcorcon,Mirandes,11,8,3,4,3,4,15,13,6,1,1,0,0,0,A
+Sp Gijon,Las Palmas,11,8,6,5,7,4,18,12,1,2,0,1,0,0,H
+Tenerife,Ponferradina,8,4,4,1,7,3,13,12,2,0,0,0,0,0,H
+Vallecano,Albacete,16,7,6,1,1,2,12,18,3,3,0,1,0,0,H
+Elche,Extremadura UD,5,13,2,3,6,2,9,14,1,2,0,1,1,0,D
+Fuenlabrada,Tenerife,4,11,2,1,0,4,15,20,4,3,0,0,1,0,H
+Malaga,Huesca,14,8,5,4,4,3,18,14,1,4,1,1,1,2,A
+Oviedo,Ponferradina,4,10,0,4,3,6,15,25,2,3,0,0,0,0,D
+Santander,Lugo,6,13,1,5,2,8,17,19,4,2,1,0,1,0,A
+Las Palmas,Girona,6,6,1,3,4,4,13,14,4,3,0,0,0,0,D
+Zaragoza,Alcorcon,16,7,4,5,6,1,12,21,1,1,1,0,0,0,A
+La Coruna,Sp Gijon,14,14,0,3,6,7,19,8,1,0,0,0,0,0,D
+Mirandes,Numancia,8,13,5,2,3,3,14,15,2,2,1,0,1,0,H
+Albacete,Almeria,12,10,6,3,5,3,9,15,4,3,0,0,0,1,A
+Cadiz,Vallecano,9,14,2,4,3,6,16,21,3,3,0,1,0,0,D
+Ponferradina,Elche,12,3,5,1,5,2,21,30,5,4,1,0,1,1,H
+Tenerife,Malaga,30,4,6,2,11,0,13,4,2,3,0,1,0,0,D
+Lugo,Zaragoza,14,10,3,5,12,3,13,12,0,0,1,0,0,1,A
+Girona,Santander,13,6,1,2,5,4,20,19,3,2,0,0,0,0,D
+Almeria,Las Palmas,4,7,2,2,5,2,20,12,5,2,0,0,0,1,A
+Extremadura UD,Albacete,14,8,1,2,4,2,19,13,2,6,0,0,0,1,A
+Oviedo,La Coruna,14,7,6,4,4,3,13,13,3,2,0,0,2,1,D
+Vallecano,Fuenlabrada,6,8,3,2,4,2,19,20,3,4,0,0,0,0,H
+Huesca,Mirandes,16,9,6,5,7,5,7,19,0,4,0,0,0,0,A
+Numancia,Cadiz,12,12,4,3,5,6,15,22,3,2,0,1,1,1,A
+Alcorcon,Sp Gijon,9,14,6,4,7,3,17,17,2,2,0,0,0,2,A
+Elche,Girona,8,13,4,6,4,3,18,16,3,5,0,0,0,0,H
+La Coruna,Vallecano,12,11,4,4,2,4,15,12,0,3,0,0,0,2,D
+Las Palmas,Lugo,18,4,3,1,7,1,10,22,3,4,0,1,0,0,H
+Zaragoza,Almeria,10,8,3,4,5,4,9,19,4,2,0,0,0,1,A
+Malaga,Extremadura UD,13,7,5,4,4,8,18,19,2,1,0,0,1,0,D
+Mirandes,Ponferradina,7,15,3,9,2,5,13,19,6,4,1,0,1,1,A
+Santander,Tenerife,10,12,3,5,6,2,20,19,4,2,0,0,0,1,A
+Albacete,Huesca,9,11,2,4,2,4,18,14,3,2,0,1,1,0,D
+Cadiz,Alcorcon,7,3,2,1,7,0,8,27,2,3,0,0,0,0,D
+Fuenlabrada,Numancia,8,13,3,5,3,2,15,12,4,3,0,0,1,0,H
+Sp Gijon,Oviedo,6,8,2,2,2,2,23,14,2,3,0,0,0,0,A
+Elche,La Coruna,22,9,3,2,10,5,13,8,4,1,1,1,0,0,A
+Lugo,Malaga,8,9,1,6,2,8,16,9,2,2,0,0,0,0,D
+Extremadura UD,Zaragoza,11,11,4,5,2,4,24,17,3,2,1,0,1,1,A
+Girona,Numancia,11,9,3,3,4,5,17,14,2,0,0,0,2,0,H
+Huesca,Cadiz,11,7,4,3,2,3,21,17,4,2,0,0,0,0,D
+Tenerife,Mirandes,12,12,6,2,2,4,20,8,2,1,0,0,2,0,H
+Albacete,Las Palmas,13,5,4,2,6,5,14,14,3,5,0,0,0,0,D
+Ponferradina,Santander,7,11,4,3,4,2,14,17,3,6,0,0,1,1,D
+Almeria,Alcorcon,12,11,5,3,9,2,13,22,5,2,0,0,0,1,A
+Vallecano,Sp Gijon,15,6,6,1,5,1,17,12,2,3,0,0,0,1,D
+Oviedo,Fuenlabrada,9,7,1,0,2,2,8,18,3,3,0,0,0,0,D
+La Coruna,Ponferradina,9,10,2,5,6,5,13,19,4,1,0,0,0,0,H
+Cadiz,Tenerife,13,4,3,3,9,8,10,17,4,4,1,0,0,1,A
+Las Palmas,Elche,17,6,8,2,6,2,13,11,3,3,0,0,1,1,D
+Santander,Albacete,5,10,2,7,3,8,18,19,4,4,1,0,1,0,A
+Mirandes,Almeria,15,10,5,6,6,6,17,17,3,4,1,0,1,2,D
+Sp Gijon,Lugo,10,10,6,3,2,6,17,3,2,0,0,0,1,0,H
+Malaga,Girona,10,5,4,1,2,1,27,21,6,2,1,1,1,0,H
+Numancia,Oviedo,11,11,2,3,3,5,19,13,4,1,0,1,1,0,H
+Fuenlabrada,Extremadura UD,11,12,4,5,2,1,13,12,0,1,0,0,1,1,D
+Alcorcon,Vallecano,5,15,3,6,0,8,18,16,2,5,0,0,1,1,H
+Zaragoza,Huesca,8,12,1,4,5,3,16,10,5,3,0,0,0,0,A
+Tenerife,La Coruna,5,15,3,5,5,10,16,7,2,1,0,0,0,0,D
+Elche,Cadiz,5,5,0,1,3,0,20,18,3,2,0,0,0,0,D
+Almeria,Sp Gijon,6,8,5,2,4,4,13,9,0,3,0,0,0,0,H
+Lugo,Numancia,9,8,4,4,3,1,19,15,3,3,0,0,1,0,H
+Oviedo,Mirandes,5,12,3,4,1,9,19,19,2,2,0,0,1,0,H
+Extremadura UD,Santander,11,9,6,3,1,6,25,18,1,2,0,0,2,0,H
+Ponferradina,Fuenlabrada,9,7,2,4,4,2,18,15,3,3,0,0,0,0,A
+Albacete,Alcorcon,10,10,5,5,4,1,12,22,4,5,0,1,0,1,D
+Huesca,Las Palmas,11,12,5,2,5,2,24,9,1,3,0,1,1,0,H
+Vallecano,Malaga,14,9,2,3,5,4,20,16,3,4,0,0,0,0,D
+Girona,Zaragoza,15,5,2,1,6,3,16,17,4,2,0,0,0,0,H
+Numancia,Extremadura UD,11,14,3,4,6,3,11,21,6,3,0,0,1,0,H
+Santander,Elche,6,16,2,6,2,6,19,23,5,2,0,0,1,0,A
+Almeria,Tenerife,11,15,4,3,2,2,12,10,4,2,1,0,1,1,A
+Cadiz,Oviedo,6,9,3,1,4,3,19,5,4,2,0,1,1,0,H
+Fuenlabrada,Mirandes,7,18,2,5,4,7,19,11,5,1,1,0,0,0,D
+La Coruna,Huesca,11,13,6,4,3,6,14,10,2,2,0,0,2,1,H
+Las Palmas,Ponferradina,7,6,6,2,4,4,10,22,2,5,0,0,0,0,H
+Malaga,Albacete,7,11,4,2,4,6,18,15,6,2,1,0,0,0,D
+Alcorcon,Lugo,16,6,4,2,7,4,13,13,4,4,0,0,1,0,D
+Sp Gijon,Girona,11,10,3,4,3,6,16,22,2,0,0,0,0,0,D
+Zaragoza,Vallecano,12,13,5,6,5,5,15,20,4,4,0,0,1,1,A
+Mirandes,Elche,10,6,3,0,6,3,10,16,1,2,0,0,0,0,H
+Fuenlabrada,Santander,9,7,4,1,3,5,10,11,1,2,0,0,0,0,H
+Extremadura UD,Cadiz,11,8,0,2,3,5,14,19,1,3,0,0,0,1,A
+Malaga,La Coruna,15,4,4,0,8,4,15,12,1,4,0,0,0,0,H
+Oviedo,Las Palmas,13,9,6,4,4,4,15,18,2,3,0,0,1,0,H
+Huesca,Alcorcon,9,7,5,3,5,2,21,20,2,2,0,0,2,1,H
+Ponferradina,Lugo,14,7,4,1,7,3,19,15,2,5,0,0,0,0,A
+Albacete,Sp Gijon,9,9,2,6,2,4,10,10,4,5,0,1,0,1,D
+Vallecano,Numancia,14,8,6,3,7,4,20,10,3,4,0,1,2,0,H
+Girona,Almeria,8,11,2,5,7,2,20,17,2,2,0,1,0,0,H
+Tenerife,Zaragoza,8,17,3,5,2,1,13,12,3,4,1,0,1,1,D
+Santander,Huesca,11,13,4,1,2,4,17,15,1,1,0,0,1,0,H
+Las Palmas,Mirandes,12,7,5,0,3,7,12,15,3,3,0,0,0,0,H
+Cadiz,Fuenlabrada,12,9,4,3,7,4,16,25,2,3,0,0,0,0,A
+La Coruna,Extremadura UD,16,14,7,4,0,4,12,16,0,2,0,0,1,0,A
+Lugo,Girona,10,12,3,5,3,9,12,19,3,2,0,0,1,1,D
+Numancia,Ponferradina,11,10,4,5,5,2,18,23,3,2,0,0,0,0,H
+Zaragoza,Oviedo,12,13,5,8,3,7,17,10,4,0,0,0,0,2,A
+Almeria,Vallecano,9,15,4,4,1,9,13,19,2,3,0,0,3,0,H
+Sp Gijon,Malaga,10,9,4,4,2,6,17,4,2,1,0,0,2,0,H
+Alcorcon,Tenerife,19,6,8,3,8,5,11,17,5,2,0,0,0,0,D
+Elche,Albacete,11,5,3,2,5,1,13,13,3,2,0,1,0,0,H
+Albacete,Zaragoza,9,7,6,3,3,7,14,14,2,2,0,0,3,1,H
+Extremadura UD,Sp Gijon,8,15,2,8,1,5,24,12,1,5,0,0,2,0,H
+Fuenlabrada,Elche,10,9,4,3,5,6,20,10,4,5,0,0,0,0,H
+Girona,Cadiz,3,7,2,4,2,5,18,13,4,2,1,1,1,0,H
+Huesca,Numancia,21,7,8,2,7,2,12,6,1,1,0,0,0,0,H
+Malaga,Alcorcon,4,8,2,2,1,3,16,19,0,4,0,0,1,0,H
+Mirandes,La Coruna,10,18,4,6,5,7,17,6,5,2,0,0,1,0,H
+Oviedo,Santander,3,2,2,0,0,3,19,18,2,2,0,0,1,0,H
+Ponferradina,Almeria,9,15,4,6,8,4,11,14,3,3,0,0,1,1,H
+Tenerife,Lugo,11,5,5,4,11,2,15,10,1,2,0,1,0,0,A
+Vallecano,Las Palmas,13,9,5,5,3,3,16,13,6,3,0,0,1,1,D
+Las Palmas,Extremadura UD,10,6,7,1,4,3,9,18,2,1,0,0,4,0,H
+Alcorcon,Girona,7,9,4,3,1,3,18,14,0,1,0,0,0,0,H
+Almeria,Malaga,7,8,3,3,2,6,14,19,1,2,0,0,0,0,D
+Cadiz,Albacete,12,10,3,7,6,3,19,17,2,1,0,0,0,0,A
+Elche,Oviedo,15,4,9,1,5,2,17,16,3,4,0,0,1,1,H
+Lugo,Mirandes,10,6,4,2,5,2,14,14,3,1,0,0,0,1,H
+Numancia,Tenerife,16,11,5,3,6,3,18,12,3,0,0,0,1,0,H
+Santander,Vallecano,6,19,1,6,3,6,13,14,2,4,0,0,1,0,A
+Sp Gijon,Huesca,5,15,1,6,1,7,8,7,2,2,0,0,0,0,A
+Zaragoza,Ponferradina,11,6,5,3,6,3,15,15,2,0,0,0,1,0,H
+La Coruna,Fuenlabrada,25,6,8,4,14,2,13,14,2,1,0,0,0,1,H

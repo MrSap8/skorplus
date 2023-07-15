@@ -1,0 +1,381 @@
+HomeTeam,AwayTeam,HS,AS,HST,AST,HC,AC,HF,AF,HY,AY,HR,AR,HTHG,HTAG,FTR
+Ath Bilbao,Barcelona,11,11,5,2,3,8,14,9,1,1,0,0,0,0,H
+Celta,Real Madrid,7,17,4,11,6,4,17,12,5,2,0,1,0,1,A
+Valencia,Sociedad,14,12,6,3,3,3,13,14,4,4,1,0,0,0,D
+Mallorca,Eibar,16,11,4,5,9,3,13,14,2,3,0,0,1,0,H
+Leganes,Osasuna,13,4,2,2,8,0,17,11,1,4,1,0,0,0,A
+Villarreal,Granada,12,14,7,7,2,7,10,16,3,1,0,0,1,1,D
+Alaves,Levante,9,16,2,4,2,9,18,15,2,1,0,0,0,0,H
+Espanol,Sevilla,7,12,2,4,8,4,11,17,2,2,0,0,0,1,A
+Betis,Valladolid,13,14,4,3,6,1,11,19,2,6,1,0,0,0,A
+Ath Madrid,Getafe,5,6,5,0,3,4,19,22,3,4,1,1,1,0,H
+Granada,Sevilla,12,11,0,6,6,6,13,14,1,1,0,0,0,0,A
+Levante,Villarreal,16,23,4,6,7,3,5,9,1,2,0,0,0,1,H
+Osasuna,Eibar,6,12,2,0,6,6,15,12,4,4,0,0,0,0,D
+Real Madrid,Valladolid,22,9,4,2,4,3,12,11,2,2,0,0,0,0,D
+Celta,Valencia,11,9,6,1,6,4,8,12,1,2,0,0,1,0,H
+Getafe,Ath Bilbao,6,4,2,2,4,6,15,11,2,1,0,0,1,1,D
+Alaves,Espanol,10,5,2,1,3,5,13,10,3,1,0,0,0,0,D
+Mallorca,Sociedad,12,12,4,4,5,5,16,12,1,2,0,0,0,0,A
+Leganes,Ath Madrid,10,6,4,4,9,4,12,13,4,5,0,0,0,0,A
+Barcelona,Betis,20,4,7,3,11,0,14,12,1,1,0,0,1,1,H
+Sevilla,Celta,19,2,5,1,9,1,16,9,4,2,0,0,0,0,D
+Ath Bilbao,Sociedad,15,2,5,2,3,0,17,17,2,3,0,0,2,0,H
+Osasuna,Barcelona,15,8,5,4,3,2,16,9,3,4,0,0,1,0,D
+Getafe,Alaves,15,5,1,1,4,2,11,17,3,1,0,0,1,1,D
+Levante,Valladolid,16,15,3,4,6,6,9,10,2,2,0,0,0,0,H
+Betis,Leganes,17,19,5,7,11,8,14,15,4,2,0,0,0,0,H
+Valencia,Mallorca,9,12,4,1,7,4,6,19,0,1,0,0,1,0,H
+Ath Madrid,Eibar,7,6,3,2,1,1,9,15,0,3,0,0,1,2,H
+Espanol,Granada,15,14,3,6,8,6,6,13,2,3,0,0,0,1,A
+Villarreal,Real Madrid,10,17,5,5,1,8,8,14,1,4,0,1,1,1,D
+Mallorca,Ath Bilbao,10,11,1,5,4,6,15,18,4,3,0,0,0,0,D
+Real Madrid,Levante,25,8,11,3,9,6,13,10,2,2,0,0,3,0,H
+Leganes,Villarreal,10,8,4,4,8,6,14,11,2,0,0,0,0,2,A
+Sociedad,Ath Madrid,14,12,5,2,5,5,13,10,1,3,0,0,0,0,H
+Barcelona,Valencia,17,9,10,3,2,5,11,11,1,4,0,0,2,1,H
+Eibar,Espanol,11,7,1,2,7,2,14,16,2,4,0,1,0,0,A
+Alaves,Sevilla,7,19,0,7,2,6,13,7,5,5,0,0,0,1,A
+Celta,Granada,4,13,0,3,3,5,11,13,4,2,2,0,0,1,A
+Valladolid,Osasuna,11,17,1,5,10,6,9,10,0,1,0,0,0,0,D
+Betis,Getafe,7,12,2,4,5,6,11,28,3,6,2,0,0,1,D
+Osasuna,Betis,12,7,6,2,9,4,15,9,1,2,0,0,0,0,D
+Villarreal,Valladolid,18,7,6,3,4,8,12,8,2,1,0,0,0,0,H
+Levante,Eibar,13,18,4,4,6,7,9,11,0,2,0,0,0,0,D
+Ath Madrid,Celta,20,6,5,3,13,3,14,12,3,5,0,0,0,0,D
+Granada,Barcelona,9,8,4,1,4,5,22,12,3,2,0,0,1,0,H
+Getafe,Mallorca,14,7,5,3,7,2,15,17,4,5,0,0,2,0,H
+Espanol,Sociedad,17,10,3,5,5,7,7,12,1,0,0,0,0,2,A
+Valencia,Leganes,13,13,4,4,6,6,14,23,3,4,0,0,1,1,D
+Ath Bilbao,Alaves,13,5,4,1,3,2,11,19,1,4,0,0,1,0,H
+Sevilla,Real Madrid,9,7,0,4,9,6,16,15,3,2,0,0,0,0,A
+Valladolid,Granada,9,6,5,4,6,3,21,18,3,2,0,0,1,1,D
+Betis,Levante,17,17,5,3,5,2,11,11,2,2,0,0,1,1,H
+Barcelona,Villarreal,8,11,4,3,6,5,4,13,4,2,0,0,2,1,H
+Leganes,Ath Bilbao,7,9,3,2,4,5,11,12,0,1,0,0,0,0,D
+Mallorca,Ath Madrid,9,13,3,3,8,5,8,15,3,5,0,1,0,1,A
+Valencia,Getafe,8,18,4,5,4,5,14,26,1,4,0,0,3,1,D
+Real Madrid,Osasuna,15,4,4,0,7,5,13,13,2,2,0,0,1,0,H
+Eibar,Sevilla,11,7,4,4,3,1,11,19,3,4,0,0,0,2,H
+Celta,Espanol,14,10,3,4,6,4,5,17,2,5,0,0,0,0,D
+Sociedad,Alaves,21,5,7,0,5,3,7,20,1,4,0,1,3,0,H
+Villarreal,Betis,17,11,10,6,3,7,13,8,2,2,0,0,1,0,H
+Ath Bilbao,Valencia,14,10,3,6,7,7,14,12,2,5,0,0,0,1,A
+Getafe,Barcelona,8,10,1,6,4,1,23,17,4,4,0,1,0,1,A
+Granada,Leganes,11,15,4,6,8,3,19,12,3,4,0,0,1,0,H
+Ath Madrid,Real Madrid,7,14,1,3,5,7,14,14,1,2,0,0,0,0,D
+Espanol,Valladolid,16,9,2,6,4,3,16,13,2,0,1,0,0,1,A
+Eibar,Celta,7,3,3,2,6,5,17,15,3,1,0,0,0,0,H
+Alaves,Mallorca,11,5,6,1,4,1,16,14,2,3,0,0,0,0,H
+Levante,Osasuna,10,18,5,3,7,11,12,12,6,0,1,0,1,0,D
+Sevilla,Sociedad,21,5,8,2,7,0,9,8,1,1,0,0,1,1,H
+Betis,Eibar,12,8,3,2,4,9,7,20,3,6,0,1,0,1,D
+Leganes,Levante,25,9,10,2,9,4,10,7,3,5,0,0,0,1,A
+Real Madrid,Granada,17,8,10,5,6,2,12,18,4,5,0,0,2,0,H
+Valencia,Alaves,11,10,3,4,4,7,7,16,1,3,0,0,1,0,H
+Osasuna,Villarreal,16,16,4,5,8,9,9,15,2,2,0,0,0,1,H
+Mallorca,Espanol,9,11,3,3,2,4,11,11,1,3,0,0,1,0,H
+Celta,Ath Bilbao,13,6,2,2,6,4,8,20,0,5,0,0,0,0,H
+Valladolid,Ath Madrid,5,9,1,1,3,4,15,14,6,4,0,0,0,0,D
+Sociedad,Getafe,6,13,3,4,3,8,20,15,2,4,1,0,1,0,A
+Barcelona,Sevilla,15,16,8,4,7,10,10,12,5,3,2,0,3,0,H
+Granada,Osasuna,6,9,2,4,2,7,12,17,2,8,0,1,1,0,H
+Eibar,Barcelona,5,9,0,4,2,2,16,14,5,0,0,0,0,1,A
+Ath Madrid,Valencia,15,11,4,3,2,4,18,12,2,1,0,1,1,0,D
+Getafe,Leganes,5,7,2,3,2,3,17,19,1,4,0,0,0,0,H
+Mallorca,Real Madrid,5,13,1,4,4,4,20,14,2,2,0,1,1,0,H
+Alaves,Celta,12,14,5,2,4,6,20,5,5,1,0,0,0,0,H
+Sociedad,Betis,18,12,6,5,11,2,23,12,4,2,0,0,2,1,H
+Espanol,Villarreal,18,11,3,5,7,3,11,14,2,1,0,0,0,1,A
+Ath Bilbao,Valladolid,19,9,7,3,3,4,12,9,2,3,0,0,1,0,D
+Sevilla,Levante,19,12,5,5,9,1,10,11,2,2,0,0,0,0,H
+Villarreal,Alaves,19,12,8,3,5,4,12,13,2,2,0,0,1,0,H
+Leganes,Mallorca,9,9,3,1,4,5,19,13,4,1,0,0,1,0,H
+Valladolid,Eibar,8,13,4,3,4,3,13,13,1,2,0,0,2,0,H
+Ath Madrid,Ath Bilbao,9,9,2,2,7,7,14,9,2,2,0,0,1,0,H
+Celta,Sociedad,9,9,1,4,3,7,20,12,5,2,1,0,0,0,A
+Granada,Betis,13,12,3,0,4,2,13,8,3,4,0,0,0,0,H
+Levante,Espanol,7,14,3,3,4,7,10,26,2,3,0,0,0,1,A
+Sevilla,Getafe,15,9,8,4,5,0,13,18,2,3,0,0,0,0,H
+Osasuna,Valencia,21,2,13,1,6,1,8,6,1,1,0,1,1,1,H
+Alaves,Ath Madrid,11,9,3,3,4,1,23,16,3,3,0,0,0,0,D
+Barcelona,Valladolid,18,9,9,1,6,3,9,14,0,3,0,0,3,1,H
+Sociedad,Levante,17,13,5,4,9,5,15,12,3,4,0,0,0,2,A
+Valencia,Sevilla,10,10,3,1,6,1,12,17,6,3,0,0,0,1,D
+Ath Bilbao,Espanol,7,12,5,5,2,5,13,20,0,1,0,0,2,0,H
+Betis,Celta,11,18,7,5,5,10,16,17,6,1,0,0,1,0,H
+Real Madrid,Leganes,22,5,11,3,8,3,12,12,1,5,0,0,3,0,H
+Eibar,Villarreal,25,9,8,2,8,3,11,12,0,3,0,0,0,0,H
+Mallorca,Osasuna,11,12,3,4,5,3,9,10,1,5,0,0,1,0,D
+Getafe,Granada,8,10,3,2,2,3,22,11,5,5,0,0,2,0,H
+Espanol,Valencia,13,11,4,4,5,5,20,14,0,1,0,0,1,0,A
+Levante,Barcelona,9,9,3,6,2,3,9,13,1,6,0,0,0,1,H
+Sevilla,Ath Madrid,11,14,4,5,6,3,13,16,4,3,0,0,1,0,D
+Real Madrid,Betis,22,13,7,3,9,4,11,17,2,4,0,0,0,0,D
+Valladolid,Mallorca,12,14,6,1,2,6,15,20,5,4,0,0,1,0,H
+Villarreal,Ath Bilbao,11,12,7,2,8,10,10,8,2,0,0,0,0,0,D
+Osasuna,Alaves,19,11,6,3,5,1,13,17,4,2,0,0,3,1,H
+Celta,Getafe,6,9,2,5,4,4,6,19,3,3,0,0,0,1,A
+Leganes,Eibar,12,7,5,4,4,2,16,20,5,2,0,0,1,1,A
+Granada,Sociedad,5,9,3,5,4,5,15,19,0,2,0,0,1,1,A
+Sociedad,Leganes,11,6,5,2,5,1,14,23,2,6,0,1,0,0,D
+Alaves,Valladolid,14,7,5,1,6,7,21,16,3,3,0,0,2,0,H
+Valencia,Granada,12,13,4,1,7,4,11,15,0,5,0,0,0,0,H
+Eibar,Real Madrid,14,10,1,5,6,6,9,8,0,0,0,0,0,3,A
+Barcelona,Celta,10,6,7,5,2,2,18,14,4,1,0,0,2,1,H
+Mallorca,Villarreal,5,22,3,6,2,5,18,17,2,3,0,0,2,0,H
+Ath Bilbao,Levante,23,8,10,2,10,2,13,13,3,2,0,0,0,1,H
+Ath Madrid,Espanol,18,10,5,1,9,2,12,15,2,2,0,0,1,1,H
+Getafe,Osasuna,14,4,5,1,9,5,15,16,2,4,0,0,0,0,D
+Betis,Sevilla,18,10,5,6,4,4,12,21,2,3,0,0,1,1,A
+Levante,Mallorca,13,14,6,7,3,6,13,9,2,1,1,0,0,0,H
+Leganes,Barcelona,9,11,4,6,0,6,11,10,1,2,0,0,1,0,A
+Betis,Valencia,25,9,8,3,5,4,9,13,2,2,0,0,1,1,H
+Granada,Ath Madrid,9,17,3,6,2,8,15,17,4,3,0,0,0,0,D
+Real Madrid,Sociedad,18,11,10,6,4,3,13,16,1,1,0,0,1,1,H
+Espanol,Getafe,6,11,2,2,3,3,23,12,3,4,0,0,1,1,D
+Osasuna,Ath Bilbao,12,6,7,4,6,2,15,18,4,3,0,0,0,1,A
+Eibar,Alaves,18,7,7,5,10,4,10,11,1,2,0,0,0,0,A
+Villarreal,Celta,15,11,1,7,8,2,12,9,3,2,0,0,0,0,A
+Valladolid,Sevilla,7,4,1,2,8,4,13,25,3,4,0,1,0,1,A
+Celta,Valladolid,13,9,5,2,11,3,11,17,1,3,0,0,0,0,D
+Alaves,Real Madrid,8,12,2,6,9,4,18,11,4,3,0,0,0,0,A
+Sociedad,Eibar,15,10,4,4,6,4,8,12,1,4,0,0,1,1,H
+Mallorca,Betis,16,15,7,3,6,5,16,15,3,4,1,0,0,2,A
+Valencia,Villarreal,13,24,7,7,6,4,8,17,1,2,0,0,0,0,H
+Sevilla,Leganes,16,8,8,4,7,4,16,7,3,3,0,0,0,0,H
+Ath Bilbao,Granada,14,8,6,1,4,3,18,16,5,4,0,0,1,0,H
+Espanol,Osasuna,12,14,5,8,2,3,12,16,1,4,0,1,1,0,A
+Getafe,Levante,13,7,9,2,6,7,22,14,2,3,0,0,0,0,H
+Ath Madrid,Barcelona,17,13,2,5,9,5,12,11,4,4,0,0,0,0,A
+Villarreal,Ath Madrid,23,18,3,3,11,6,11,11,2,1,0,0,0,0,D
+Real Madrid,Espanol,18,6,8,2,5,3,15,13,4,3,1,0,1,0,H
+Granada,Alaves,13,5,3,1,6,2,16,17,1,4,0,2,0,0,H
+Levante,Valencia,17,10,6,6,5,1,14,14,5,2,1,0,2,1,A
+Barcelona,Mallorca,25,9,17,3,8,4,15,10,3,0,0,0,4,1,H
+Eibar,Getafe,6,6,3,3,3,8,16,15,5,1,1,0,0,0,A
+Betis,Ath Bilbao,10,8,6,2,3,3,12,15,2,4,0,0,3,1,H
+Valladolid,Sociedad,4,16,2,2,1,4,10,19,0,4,0,0,0,0,D
+Leganes,Celta,15,9,8,4,3,5,14,11,3,3,0,1,2,0,H
+Osasuna,Sevilla,10,13,1,4,2,6,22,10,4,4,1,0,1,1,D
+Alaves,Leganes,10,3,3,1,2,0,14,17,2,3,0,0,0,1,D
+Granada,Levante,18,13,4,6,8,6,14,12,4,3,0,0,0,0,A
+Sociedad,Barcelona,19,9,5,5,8,5,7,8,0,1,0,0,1,1,D
+Ath Bilbao,Eibar,8,8,3,2,6,7,7,12,3,3,0,0,0,0,D
+Ath Madrid,Osasuna,19,15,9,3,6,5,16,10,2,1,0,0,0,0,H
+Getafe,Valladolid,7,10,3,3,4,3,28,10,3,3,0,0,1,0,H
+Celta,Mallorca,18,8,7,2,3,3,14,16,3,5,0,1,1,1,D
+Espanol,Betis,16,10,4,5,7,5,26,13,4,1,0,0,2,1,D
+Sevilla,Villarreal,24,9,5,3,14,2,12,11,2,0,0,0,0,1,A
+Valencia,Real Madrid,9,19,6,6,1,2,11,15,1,2,0,0,0,0,D
+Barcelona,Real Madrid,9,17,2,4,2,6,5,17,3,5,0,0,0,0,D
+Eibar,Granada,21,12,7,1,5,5,17,13,3,3,0,0,2,0,H
+Mallorca,Sevilla,8,13,1,6,3,6,15,12,6,3,0,0,0,1,A
+Barcelona,Alaves,8,5,4,3,3,4,10,11,2,4,0,0,2,0,H
+Villarreal,Getafe,11,7,4,0,2,5,8,18,2,5,0,1,0,0,H
+Valladolid,Valencia,14,5,6,2,5,4,10,12,0,3,0,0,0,0,D
+Leganes,Espanol,11,9,5,3,1,5,11,15,1,6,0,0,1,0,H
+Osasuna,Sociedad,19,13,7,7,8,3,11,12,6,2,1,0,1,3,A
+Betis,Ath Madrid,15,8,2,5,5,3,11,14,4,3,0,0,0,0,A
+Levante,Celta,13,12,7,5,8,7,8,15,3,6,0,0,0,1,H
+Real Madrid,Ath Bilbao,20,8,8,2,6,4,8,14,1,0,0,0,0,0,D
+Valladolid,Leganes,14,12,5,5,4,3,16,13,3,2,0,0,1,2,D
+Sevilla,Ath Bilbao,9,6,2,1,9,1,16,20,2,4,0,0,0,1,D
+Valencia,Eibar,9,10,1,3,6,5,13,20,1,3,0,1,1,0,H
+Getafe,Real Madrid,15,10,4,8,7,4,20,14,3,2,0,0,0,1,A
+Ath Madrid,Levante,17,6,8,3,5,5,9,10,1,3,0,0,2,1,H
+Espanol,Barcelona,8,14,3,7,4,5,17,11,2,2,0,1,1,0,D
+Granada,Mallorca,7,17,4,5,3,4,23,11,5,1,0,0,1,0,H
+Sociedad,Villarreal,10,14,2,2,7,2,16,14,5,4,0,0,1,0,A
+Alaves,Betis,6,10,1,3,3,6,18,15,7,3,0,1,1,0,D
+Celta,Osasuna,20,8,7,1,6,1,14,19,4,3,0,0,0,0,D
+Leganes,Getafe,8,8,2,4,4,4,22,18,6,4,0,0,0,3,A
+Levante,Alaves,20,14,3,6,7,6,12,20,2,4,0,0,0,0,A
+Real Madrid,Sevilla,13,8,4,3,2,4,17,12,3,1,0,0,0,0,H
+Osasuna,Valladolid,21,5,5,3,9,1,16,10,2,2,0,0,0,0,D
+Eibar,Ath Madrid,9,12,4,4,6,7,16,14,1,2,0,0,1,0,H
+Mallorca,Valencia,13,8,6,1,1,6,18,11,4,4,0,1,3,0,H
+Betis,Sociedad,14,7,6,0,6,2,8,10,3,1,0,0,2,0,H
+Villarreal,Espanol,21,16,5,5,4,4,15,18,1,3,0,1,0,1,A
+Ath Bilbao,Celta,22,7,6,3,13,0,18,12,4,3,0,0,0,0,D
+Barcelona,Granada,18,5,6,1,7,0,11,17,0,4,0,1,0,0,H
+Osasuna,Levante,15,6,3,2,5,5,18,11,3,3,0,0,0,0,H
+Espanol,Ath Bilbao,9,11,3,3,2,3,14,14,3,1,0,0,0,1,D
+Valencia,Barcelona,8,14,6,5,2,0,13,16,1,3,0,0,0,0,H
+Alaves,Villarreal,12,11,6,6,7,4,10,12,2,1,0,0,0,1,A
+Sevilla,Granada,12,8,4,1,3,6,13,18,4,1,0,0,2,0,H
+Ath Madrid,Leganes,14,10,3,4,7,6,10,19,2,6,0,1,0,0,D
+Celta,Eibar,18,5,5,3,6,3,9,16,1,0,0,0,0,0,D
+Getafe,Betis,7,8,3,1,8,4,19,12,2,4,0,1,0,0,H
+Sociedad,Mallorca,14,8,5,4,7,3,15,7,0,2,0,0,0,0,H
+Valladolid,Real Madrid,4,12,0,3,3,5,7,11,1,3,0,0,0,0,A
+Granada,Espanol,8,22,2,4,3,9,15,17,3,3,0,0,1,1,H
+Real Madrid,Ath Madrid,16,4,5,1,5,6,18,11,2,3,0,0,0,0,H
+Mallorca,Valladolid,16,15,4,7,8,5,11,10,4,1,0,0,0,0,A
+Valencia,Celta,9,11,5,4,4,7,14,20,6,3,0,0,0,0,H
+Leganes,Sociedad,12,2,5,1,3,1,24,19,4,3,0,0,0,1,H
+Eibar,Betis,8,14,3,6,2,7,15,16,2,2,0,0,1,1,D
+Ath Bilbao,Getafe,8,9,2,3,5,4,11,19,2,5,0,0,0,1,A
+Sevilla,Alaves,14,4,3,3,6,1,13,12,2,1,0,0,0,0,D
+Villarreal,Osasuna,9,17,4,5,4,6,19,15,3,2,0,0,1,0,H
+Barcelona,Levante,23,10,9,5,8,3,6,10,2,0,0,0,2,0,H
+Alaves,Eibar,9,5,5,1,3,5,16,10,3,2,0,0,0,0,H
+Levante,Leganes,9,12,5,4,2,2,18,15,2,3,0,0,2,0,H
+Getafe,Valencia,22,5,10,0,10,0,12,6,4,4,0,1,0,0,H
+Valladolid,Villarreal,8,8,1,3,2,4,14,22,3,3,0,0,1,0,D
+Ath Madrid,Granada,6,10,3,2,2,3,16,19,4,6,0,0,1,0,H
+Espanol,Mallorca,12,7,7,3,1,7,26,15,6,2,0,0,0,0,H
+Sociedad,Ath Bilbao,14,6,4,3,4,4,7,15,2,2,0,1,0,0,H
+Osasuna,Real Madrid,14,17,4,7,4,3,11,15,2,2,0,0,1,2,A
+Celta,Sevilla,13,12,7,4,3,4,16,14,3,2,0,0,0,1,H
+Betis,Barcelona,7,10,3,6,0,8,21,17,5,5,1,1,2,2,A
+Valencia,Ath Madrid,9,8,3,3,11,4,12,16,3,3,0,0,1,2,D
+Mallorca,Alaves,14,10,6,0,8,5,16,15,0,2,0,0,0,0,H
+Barcelona,Getafe,12,7,5,2,2,3,12,30,3,2,0,0,2,0,H
+Villarreal,Levante,14,11,6,2,5,10,15,15,3,1,0,0,1,0,H
+Granada,Valladolid,11,6,5,4,10,5,19,13,3,2,0,0,0,0,H
+Sevilla,Espanol,18,5,6,3,9,2,17,9,3,4,0,1,1,1,D
+Leganes,Betis,11,3,1,2,4,2,15,20,5,3,0,1,0,0,D
+Ath Bilbao,Osasuna,12,6,2,2,4,0,14,20,4,4,0,0,0,1,A
+Real Madrid,Celta,15,5,4,3,9,3,10,10,2,2,0,0,0,1,D
+Betis,Mallorca,19,11,6,4,7,1,13,12,2,1,0,0,2,2,D
+Celta,Leganes,3,11,1,2,2,9,13,17,3,3,1,0,0,0,H
+Barcelona,Eibar,13,12,11,5,5,5,8,19,0,2,0,0,3,0,H
+Sociedad,Valencia,19,6,7,1,6,7,19,9,1,1,0,0,2,0,H
+Levante,Real Madrid,8,19,2,7,3,7,16,10,1,2,0,0,0,0,H
+Osasuna,Granada,14,10,1,4,6,3,19,11,3,1,0,0,0,3,A
+Alaves,Ath Bilbao,4,13,4,5,2,9,17,12,4,4,0,0,1,1,H
+Valladolid,Espanol,21,6,6,2,4,2,10,18,1,5,0,1,0,0,H
+Getafe,Sevilla,10,8,2,5,5,3,14,17,7,3,0,0,0,1,A
+Ath Madrid,Villarreal,16,10,9,4,6,1,14,6,1,2,0,0,1,1,H
+Sociedad,Valladolid,13,6,4,1,8,4,15,11,1,1,0,0,0,0,H
+Eibar,Levante,13,11,9,4,3,6,15,16,3,2,0,0,1,0,H
+Valencia,Betis,10,14,5,5,6,7,13,9,2,3,0,0,0,0,H
+Leganes,Alaves,19,8,6,4,6,4,18,18,3,3,0,0,0,0,D
+Granada,Celta,14,6,0,2,6,1,14,11,3,5,0,0,0,0,D
+Sevilla,Osasuna,12,14,5,4,7,1,9,14,2,2,0,1,2,0,H
+Ath Bilbao,Villarreal,18,10,6,3,5,6,11,13,6,6,0,0,0,0,H
+Espanol,Ath Madrid,9,5,3,2,3,4,20,18,3,4,0,0,1,0,D
+Mallorca,Getafe,4,9,1,5,4,3,13,24,4,5,1,0,0,0,A
+Real Madrid,Barcelona,13,9,5,4,8,2,13,10,2,2,0,0,0,0,H
+Alaves,Valencia,13,6,2,2,3,3,9,10,5,3,0,0,0,1,D
+Eibar,Mallorca,13,10,2,4,4,3,16,8,5,3,0,0,0,1,A
+Ath Madrid,Sevilla,21,12,3,4,8,4,14,16,2,4,0,0,2,2,D
+Barcelona,Sociedad,13,9,6,1,4,4,12,10,4,3,0,0,0,0,H
+Getafe,Celta,19,3,6,2,9,1,18,14,6,5,1,0,0,0,D
+Osasuna,Espanol,17,8,6,2,6,2,17,12,3,3,0,1,0,0,H
+Valladolid,Ath Bilbao,19,10,2,5,8,1,9,13,1,2,0,0,0,2,A
+Levante,Granada,11,10,3,7,6,4,21,13,3,3,0,0,1,0,D
+Villarreal,Leganes,15,12,5,7,2,5,10,11,4,3,0,0,1,0,A
+Betis,Real Madrid,14,13,3,4,6,2,8,11,1,1,0,0,1,1,H
+Eibar,Sociedad,13,6,4,2,3,1,12,10,3,2,0,0,0,1,A
+Sevilla,Betis,13,12,5,1,11,2,13,16,0,2,0,0,0,0,H
+Granada,Getafe,10,6,4,2,2,3,17,16,6,4,0,0,0,1,H
+Valencia,Levante,12,14,3,4,0,6,11,13,1,4,0,1,0,0,D
+Espanol,Alaves,19,1,9,0,2,1,16,19,4,3,0,1,1,0,H
+Celta,Villarreal,4,15,0,4,2,8,5,20,1,1,0,0,0,0,A
+Leganes,Valladolid,11,6,2,2,2,1,21,20,2,4,0,0,0,1,A
+Mallorca,Barcelona,13,12,3,7,9,3,16,5,1,2,0,0,0,2,A
+Ath Bilbao,Ath Madrid,10,9,3,2,5,7,10,9,3,0,0,0,1,1,D
+Real Madrid,Eibar,6,9,5,5,3,3,11,12,1,1,0,0,3,0,H
+Sociedad,Osasuna,9,8,4,1,1,6,5,12,1,3,0,0,0,1,D
+Levante,Sevilla,11,10,5,4,5,6,12,10,1,1,0,0,0,0,D
+Betis,Granada,18,8,6,5,11,2,13,18,2,4,0,0,0,1,D
+Getafe,Espanol,21,5,4,3,5,5,15,9,3,2,0,1,0,0,D
+Villarreal,Mallorca,10,15,4,5,2,6,16,10,3,4,0,0,1,0,H
+Barcelona,Leganes,10,6,5,2,3,2,16,16,5,3,0,0,1,0,H
+Eibar,Ath Bilbao,12,6,6,3,8,3,10,11,3,2,0,0,1,1,D
+Valladolid,Celta,6,11,1,4,5,8,18,15,3,3,0,0,0,0,D
+Osasuna,Ath Madrid,13,10,3,6,3,2,12,8,3,3,0,0,0,1,A
+Alaves,Sociedad,15,9,7,1,5,6,21,11,3,4,1,1,0,0,H
+Real Madrid,Valencia,19,4,14,2,8,2,12,11,0,2,0,1,0,0,H
+Granada,Villarreal,14,5,4,1,5,0,17,15,0,3,0,0,0,1,A
+Mallorca,Leganes,7,16,3,4,3,7,15,11,3,6,0,0,1,0,D
+Sevilla,Barcelona,8,10,4,4,2,9,17,8,3,2,0,0,0,0,D
+Espanol,Levante,10,14,3,8,8,5,11,10,2,0,0,0,1,1,A
+Ath Bilbao,Betis,12,9,3,5,11,5,16,11,4,0,0,0,1,0,H
+Getafe,Eibar,9,8,2,2,2,1,18,15,3,0,0,0,1,1,D
+Ath Madrid,Valladolid,15,6,4,2,10,1,14,12,4,2,0,0,0,0,H
+Celta,Alaves,15,4,10,2,7,4,14,10,1,1,0,1,4,0,H
+Valencia,Osasuna,7,13,3,3,1,7,7,19,1,2,0,0,2,0,H
+Sociedad,Real Madrid,10,10,2,6,4,1,16,15,4,2,0,0,0,0,A
+Villarreal,Sevilla,7,14,5,6,3,8,16,12,3,3,0,0,2,1,D
+Leganes,Granada,9,4,3,1,4,2,12,16,4,4,0,0,0,0,D
+Levante,Ath Madrid,12,12,0,7,10,4,12,14,4,2,0,0,0,1,A
+Valladolid,Getafe,6,15,2,1,7,8,12,19,5,2,0,0,1,1,D
+Barcelona,Ath Bilbao,18,6,4,0,6,2,10,16,2,1,0,0,0,0,H
+Alaves,Osasuna,5,7,0,1,7,3,12,14,2,3,0,0,0,0,A
+Sociedad,Celta,13,4,6,1,7,3,18,15,4,2,0,0,0,1,A
+Real Madrid,Mallorca,14,11,6,4,5,4,18,12,4,1,0,0,1,0,H
+Eibar,Valencia,14,7,5,0,10,8,12,7,4,2,0,1,1,0,H
+Betis,Espanol,13,9,6,2,6,5,18,18,4,4,0,0,0,0,H
+Sevilla,Valladolid,15,11,3,5,5,1,16,17,3,2,0,0,0,1,D
+Ath Bilbao,Mallorca,12,14,6,2,1,8,17,16,1,2,0,0,2,0,H
+Celta,Barcelona,10,18,6,2,3,8,19,10,3,4,0,0,0,1,D
+Osasuna,Leganes,6,21,5,7,2,4,12,15,1,1,0,0,1,0,H
+Ath Madrid,Alaves,14,6,4,2,3,1,13,14,3,2,0,0,0,0,H
+Levante,Betis,9,17,4,8,2,5,13,14,0,4,0,0,2,0,H
+Villarreal,Valencia,17,4,4,0,1,4,9,18,0,2,0,0,2,0,H
+Granada,Eibar,14,13,5,6,8,5,8,13,1,0,0,0,0,1,A
+Espanol,Real Madrid,8,14,5,6,0,5,18,12,1,1,0,0,0,1,A
+Getafe,Sociedad,11,5,4,1,5,4,22,11,6,3,0,0,1,0,H
+Mallorca,Celta,9,12,7,8,2,11,16,12,3,2,0,0,3,0,H
+Leganes,Sevilla,9,11,3,6,4,2,23,10,4,3,0,0,0,2,A
+Barcelona,Ath Madrid,12,10,5,3,3,1,11,15,3,5,0,0,1,1,D
+Alaves,Granada,11,7,4,4,6,2,18,17,3,2,0,0,0,1,A
+Valencia,Ath Bilbao,10,12,1,4,3,5,9,12,1,0,0,0,0,1,A
+Betis,Villarreal,9,15,1,6,1,5,10,16,4,1,1,0,0,2,A
+Valladolid,Levante,15,8,4,3,8,3,10,12,2,1,0,0,0,0,D
+Eibar,Osasuna,11,9,4,6,9,4,8,12,1,1,0,0,0,1,A
+Sociedad,Espanol,12,4,4,3,4,3,11,15,2,1,0,0,0,1,H
+Real Madrid,Getafe,8,10,4,3,6,5,15,22,5,5,0,0,0,0,H
+Ath Madrid,Mallorca,15,13,3,1,4,5,14,11,2,1,0,0,2,0,H
+Celta,Betis,5,10,1,3,2,8,20,18,5,4,0,0,1,0,D
+Valladolid,Alaves,5,7,3,0,1,3,13,17,0,0,0,0,0,0,H
+Granada,Valencia,17,4,4,3,7,3,18,14,2,2,0,0,0,0,D
+Ath Bilbao,Real Madrid,7,10,1,4,3,2,13,8,4,3,0,0,0,0,A
+Espanol,Leganes,7,4,2,2,0,3,14,22,4,3,1,0,0,0,A
+Osasuna,Getafe,6,6,2,1,2,2,17,18,5,4,0,0,0,0,D
+Villarreal,Barcelona,11,18,4,12,2,6,11,11,1,0,0,0,1,3,A
+Levante,Sociedad,9,8,4,3,4,2,17,12,3,2,0,0,1,1,D
+Sevilla,Eibar,8,19,3,3,11,8,11,16,2,1,0,0,0,0,H
+Valencia,Valladolid,10,11,4,5,5,2,9,5,3,0,0,0,1,0,H
+Celta,Ath Madrid,9,10,4,2,6,2,14,13,3,3,0,0,0,1,D
+Betis,Osasuna,14,8,8,2,5,8,9,17,1,5,0,0,2,0,H
+Getafe,Villarreal,5,6,2,3,1,3,19,10,4,1,0,1,0,0,A
+Barcelona,Espanol,9,11,2,2,6,5,8,12,0,2,1,1,0,0,H
+Eibar,Leganes,4,10,1,1,8,1,21,13,3,3,0,0,0,0,D
+Mallorca,Levante,15,14,5,2,1,5,11,20,3,1,0,0,1,0,H
+Ath Bilbao,Sevilla,13,20,4,7,4,7,18,9,3,2,0,0,1,0,A
+Sociedad,Granada,19,4,5,3,8,3,12,13,2,3,0,0,0,2,A
+Real Madrid,Alaves,18,10,8,4,3,2,5,17,0,1,0,0,1,0,H
+Osasuna,Celta,15,12,5,3,3,4,10,11,2,2,0,0,1,1,H
+Valladolid,Barcelona,13,9,4,6,4,5,15,13,2,2,0,0,0,1,A
+Ath Madrid,Betis,9,21,4,3,2,4,10,10,1,3,1,0,0,0,H
+Espanol,Eibar,14,11,3,6,7,2,13,14,2,2,0,0,0,2,A
+Levante,Ath Bilbao,5,12,1,5,2,6,10,15,0,1,0,0,0,2,A
+Leganes,Valencia,10,16,1,5,2,8,21,9,4,1,1,0,1,0,H
+Sevilla,Mallorca,14,14,5,5,5,5,14,7,3,2,0,0,1,0,H
+Alaves,Getafe,3,14,1,4,2,4,26,15,4,2,0,0,0,0,D
+Villarreal,Sociedad,9,11,3,6,2,10,12,11,2,2,0,0,0,0,A
+Granada,Real Madrid,13,11,4,5,4,3,18,18,2,2,0,0,0,2,A
+Eibar,Valladolid,13,17,7,8,3,12,19,13,4,0,0,0,2,0,H
+Ath Bilbao,Leganes,10,16,3,4,3,3,11,11,2,3,1,0,0,0,A
+Barcelona,Osasuna,19,9,3,5,10,2,7,14,4,1,0,1,0,1,A
+Betis,Alaves,14,9,7,5,6,5,14,18,6,4,1,1,0,0,A
+Celta,Levante,16,8,6,4,8,4,11,15,3,0,1,1,2,2,A
+Getafe,Ath Madrid,15,11,6,3,4,3,14,11,1,2,1,0,0,0,A
+Mallorca,Granada,18,14,5,6,5,6,14,18,7,5,2,0,1,1,A
+Real Madrid,Villarreal,12,8,7,4,4,2,13,13,3,2,0,0,1,0,H
+Sociedad,Sevilla,11,8,4,3,3,2,16,13,1,2,0,0,0,0,D
+Valencia,Espanol,9,18,3,6,4,4,9,18,2,4,1,0,1,0,H
+Alaves,Barcelona,8,16,0,8,2,1,17,15,0,0,0,0,0,3,A
+Valladolid,Betis,13,10,4,3,3,5,17,10,2,2,0,0,1,0,H
+Villarreal,Eibar,12,11,5,3,4,4,4,9,0,0,0,0,0,0,H
+Ath Madrid,Sociedad,6,10,3,4,2,3,16,9,1,2,0,0,1,0,D
+Espanol,Celta,8,9,1,3,1,4,10,11,2,3,0,0,0,0,D
+Granada,Ath Bilbao,11,11,6,3,2,3,10,11,1,2,0,0,1,0,H
+Leganes,Real Madrid,15,7,7,4,5,2,9,11,4,1,0,0,1,1,D
+Levante,Getafe,13,13,4,4,6,8,10,12,2,4,0,0,0,0,H
+Osasuna,Mallorca,12,12,5,4,3,5,17,10,2,0,0,0,1,1,D
+Sevilla,Valencia,16,8,4,2,4,7,11,6,0,1,0,0,0,0,H

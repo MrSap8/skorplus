@@ -1,0 +1,307 @@
+HomeTeam,AwayTeam,HS,AS,HST,AST,HC,AC,HF,AF,HY,AY,HR,AR,HTHG,HTAG,FTR
+Bayern Munich,Schalke 04,22,5,12,1,9,2,11,12,1,2,0,0,3,0,H
+Ein Frankfurt,Bielefeld,18,14,6,4,14,3,14,13,2,2,0,0,0,0,D
+FC Koln,Hoffenheim,13,13,6,7,1,6,12,13,0,0,0,0,1,2,A
+Stuttgart,Freiburg,22,7,7,6,7,2,12,16,2,2,0,0,0,2,A
+Union Berlin,Augsburg,13,9,3,5,8,1,9,9,2,0,0,0,0,1,A
+Werder Bremen,Hertha,17,13,7,6,7,4,13,17,2,0,0,0,0,2,A
+Dortmund,M'gladbach,9,8,4,2,1,3,10,9,1,1,0,0,1,0,H
+RB Leipzig,Mainz,23,8,10,1,7,5,5,11,1,2,0,0,2,0,H
+Wolfsburg,Leverkusen,9,6,1,2,4,4,13,12,1,2,0,0,0,0,D
+Hertha,Ein Frankfurt,12,10,6,3,4,3,13,16,3,4,0,0,0,2,A
+Augsburg,Dortmund,6,16,4,7,3,11,7,8,3,4,0,0,1,0,H
+Bielefeld,FC Koln,7,12,3,2,4,7,12,15,3,3,0,0,0,0,H
+Leverkusen,RB Leipzig,11,7,4,2,4,1,16,10,1,3,0,0,1,1,D
+Mainz,Stuttgart,11,15,3,7,3,9,10,17,2,4,1,1,1,1,A
+M'gladbach,Union Berlin,14,15,5,2,7,5,11,15,1,2,0,0,0,0,D
+Schalke 04,Werder Bremen,17,17,4,8,8,3,20,14,7,2,1,0,0,2,A
+Hoffenheim,Bayern Munich,17,14,8,2,3,5,15,11,3,2,0,0,2,1,H
+Freiburg,Wolfsburg,21,8,7,2,9,1,10,13,0,3,0,0,1,1,D
+Union Berlin,Mainz,13,5,7,0,4,2,13,11,1,4,0,0,1,0,H
+Dortmund,Freiburg,16,6,7,2,3,2,8,12,1,1,0,0,1,0,H
+Ein Frankfurt,Hoffenheim,16,11,6,4,5,7,12,8,2,3,0,0,0,1,H
+FC Koln,M'gladbach,8,17,3,11,4,10,16,12,3,3,0,0,0,2,A
+Stuttgart,Leverkusen,11,15,2,7,7,12,8,17,3,2,0,0,0,1,D
+Werder Bremen,Bielefeld,7,10,2,5,2,1,12,16,2,2,0,0,1,0,H
+RB Leipzig,Schalke 04,21,4,7,1,8,1,13,10,1,3,0,0,3,0,H
+Wolfsburg,Augsburg,17,9,6,1,12,2,7,13,0,1,0,0,0,0,D
+Bayern Munich,Hertha,22,9,9,5,6,1,13,19,3,3,0,0,1,0,H
+Augsburg,RB Leipzig,6,15,2,6,5,8,9,13,0,1,0,0,0,1,A
+Freiburg,Werder Bremen,19,14,4,4,4,4,10,14,3,3,0,0,1,1,D
+Hertha,Stuttgart,16,7,4,2,6,4,14,10,2,2,0,0,0,1,A
+Hoffenheim,Dortmund,8,15,3,5,4,6,13,11,1,1,0,0,0,0,A
+Mainz,Leverkusen,5,9,0,4,6,2,12,6,3,1,0,0,0,1,A
+Bielefeld,Bayern Munich,11,16,5,10,6,10,6,6,1,0,0,1,0,3,A
+M'gladbach,Wolfsburg,13,14,2,5,5,4,14,13,2,2,0,0,0,0,D
+FC Koln,Ein Frankfurt,9,16,5,4,2,8,19,18,3,2,0,0,0,1,D
+Schalke 04,Union Berlin,8,13,4,7,5,7,7,13,3,1,0,0,0,0,D
+Stuttgart,FC Koln,9,14,4,4,3,5,11,13,2,5,0,0,1,1,D
+Bayern Munich,Ein Frankfurt,20,9,10,2,10,2,11,12,3,0,0,0,2,0,H
+Mainz,M'gladbach,15,21,7,12,3,7,18,11,5,3,0,0,2,1,A
+RB Leipzig,Hertha,29,11,8,3,7,3,10,20,1,4,0,1,1,1,H
+Union Berlin,Freiburg,22,8,7,4,4,2,9,14,1,4,0,0,1,1,D
+Dortmund,Schalke 04,17,3,7,0,7,2,5,15,0,1,0,0,0,0,H
+Wolfsburg,Bielefeld,14,8,4,1,4,3,12,10,2,1,0,0,2,0,H
+Werder Bremen,Hoffenheim,5,15,2,6,1,4,10,20,2,2,0,0,1,1,D
+Leverkusen,Augsburg,15,7,7,3,3,3,14,8,1,2,0,0,1,0,H
+Schalke 04,Stuttgart,9,19,2,5,3,4,11,14,2,2,0,0,1,0,D
+Augsburg,Mainz,14,8,7,4,4,1,12,10,5,1,0,0,1,0,H
+Bielefeld,Dortmund,5,21,2,10,0,12,12,13,1,1,0,0,0,0,A
+Ein Frankfurt,Werder Bremen,14,9,5,4,5,3,12,14,1,3,0,0,0,0,D
+FC Koln,Bayern Munich,9,7,2,5,5,1,12,13,1,2,0,0,0,2,A
+M'gladbach,RB Leipzig,5,15,4,3,2,4,13,17,2,4,0,0,0,0,H
+Freiburg,Leverkusen,8,18,5,7,4,6,10,11,2,2,0,0,1,2,A
+Hertha,Wolfsburg,18,11,5,4,8,6,8,15,3,1,0,0,1,1,D
+Hoffenheim,Union Berlin,10,9,5,6,3,6,19,13,1,2,1,0,0,0,A
+Werder Bremen,FC Koln,18,8,4,1,1,3,20,20,2,2,0,0,0,0,D
+Augsburg,Hertha,10,12,2,6,2,6,12,10,3,0,0,0,0,1,A
+Mainz,Schalke 04,14,22,7,3,4,9,19,13,1,1,0,0,2,1,D
+RB Leipzig,Freiburg,15,8,7,3,3,4,14,14,2,3,0,0,1,0,H
+Stuttgart,Ein Frankfurt,16,15,5,8,10,8,14,16,2,4,0,0,2,0,D
+Union Berlin,Bielefeld,9,5,8,1,5,1,17,9,0,1,0,0,3,0,H
+Dortmund,Bayern Munich,15,16,5,8,4,3,15,7,2,2,0,0,1,1,A
+Wolfsburg,Hoffenheim,14,17,8,5,3,7,15,14,1,3,0,0,2,0,H
+Leverkusen,M'gladbach,15,15,5,6,6,2,15,12,4,2,0,0,2,2,H
+Bayern Munich,Werder Bremen,15,9,3,4,7,3,10,10,1,3,0,0,0,1,D
+Bielefeld,Leverkusen,1,10,1,4,0,10,6,10,0,1,0,0,0,1,A
+Hoffenheim,Stuttgart,13,20,8,9,3,4,15,18,3,2,0,0,1,2,D
+M'gladbach,Augsburg,15,10,6,5,2,1,7,12,1,4,0,1,1,0,D
+Schalke 04,Wolfsburg,13,19,6,8,6,4,12,11,0,1,0,0,0,2,A
+Ein Frankfurt,RB Leipzig,8,10,3,3,5,6,18,12,3,2,0,0,1,0,D
+Hertha,Dortmund,9,15,3,8,4,3,12,17,1,1,0,0,1,0,A
+Freiburg,Mainz,19,22,6,8,9,4,6,12,0,1,0,0,0,3,A
+FC Koln,Union Berlin,10,10,4,3,5,4,12,15,1,2,0,0,1,1,A
+Wolfsburg,Werder Bremen,12,5,6,4,0,5,12,12,2,3,0,1,3,2,H
+Augsburg,Freiburg,10,10,2,5,4,1,15,8,3,1,0,0,0,0,D
+Dortmund,FC Koln,14,7,4,5,6,2,11,10,1,2,0,0,0,1,A
+RB Leipzig,Bielefeld,15,13,7,3,6,7,13,15,2,2,0,0,1,0,H
+Stuttgart,Bayern Munich,15,14,4,6,4,3,11,13,0,0,0,0,1,2,A
+Union Berlin,Ein Frankfurt,15,12,7,5,4,5,12,16,2,3,0,0,2,2,D
+M'gladbach,Schalke 04,19,13,9,2,5,4,8,14,2,3,0,0,2,1,H
+Leverkusen,Hertha,14,5,2,3,6,1,16,19,2,1,0,0,0,0,D
+Mainz,Hoffenheim,10,9,4,5,11,5,16,10,0,0,0,1,1,0,D
+Hertha,Union Berlin,10,4,7,1,9,2,15,9,1,3,0,1,0,1,H
+Bielefeld,Mainz,11,15,5,5,2,3,16,18,3,2,0,0,2,0,H
+Ein Frankfurt,Dortmund,9,16,1,5,6,5,14,6,6,1,0,0,1,0,D
+FC Koln,Wolfsburg,6,16,3,6,3,8,12,11,0,1,0,0,2,1,D
+Freiburg,M'gladbach,22,11,7,4,5,5,12,19,1,2,0,0,1,1,D
+Bayern Munich,RB Leipzig,10,8,6,4,10,2,5,8,0,1,0,0,2,2,D
+Werder Bremen,Stuttgart,14,11,4,7,2,4,10,15,4,4,0,0,0,1,A
+Schalke 04,Leverkusen,13,24,4,9,2,8,17,11,2,3,0,0,0,1,A
+Hoffenheim,Augsburg,10,13,7,3,4,3,15,9,0,1,0,0,1,1,H
+Wolfsburg,Ein Frankfurt,16,7,8,4,8,1,10,12,5,2,0,0,0,0,H
+Dortmund,Stuttgart,12,18,4,10,8,2,11,13,2,3,0,0,1,1,A
+Freiburg,Bielefeld,16,5,7,1,5,4,16,13,3,0,0,0,0,0,H
+Mainz,FC Koln,15,9,4,6,5,3,15,11,4,4,0,1,0,0,A
+M'gladbach,Hertha,17,9,4,3,13,2,9,18,3,2,0,0,0,0,D
+RB Leipzig,Werder Bremen,15,7,7,2,1,6,17,12,3,1,0,0,2,0,H
+Union Berlin,Bayern Munich,13,15,6,5,4,7,17,8,3,2,0,0,1,0,D
+Augsburg,Schalke 04,8,15,4,4,2,3,17,13,3,4,1,0,1,0,D
+Leverkusen,Hoffenheim,13,11,8,4,6,5,12,13,3,6,0,2,2,0,H
+Ein Frankfurt,M'gladbach,11,8,4,4,4,5,18,15,6,4,1,0,3,1,D
+Hertha,Mainz,9,5,0,0,5,4,17,11,3,1,0,0,0,0,D
+Stuttgart,Union Berlin,13,15,6,6,2,3,15,14,3,3,0,0,0,1,D
+Werder Bremen,Dortmund,7,15,3,9,4,4,10,13,3,2,0,0,1,1,A
+Schalke 04,Freiburg,10,11,2,5,2,3,15,9,2,1,0,0,0,0,A
+Bayern Munich,Wolfsburg,13,17,2,7,7,7,14,16,3,1,0,0,1,1,H
+Bielefeld,Augsburg,12,8,2,2,1,3,14,15,1,2,0,0,0,0,A
+FC Koln,Leverkusen,7,14,1,7,2,6,12,12,1,1,0,0,0,2,A
+Hoffenheim,RB Leipzig,7,4,3,3,5,5,16,14,2,0,0,0,0,0,A
+Union Berlin,Dortmund,12,16,5,4,8,6,9,7,1,1,0,0,0,0,H
+Augsburg,Ein Frankfurt,15,15,4,6,2,4,9,10,1,4,0,0,0,0,A
+Mainz,Werder Bremen,9,13,1,7,2,5,15,11,2,2,0,0,0,0,A
+M'gladbach,Hoffenheim,15,14,5,5,3,3,13,22,1,3,1,0,1,0,A
+RB Leipzig,FC Koln,14,4,6,1,8,2,11,8,1,0,0,0,0,0,D
+Schalke 04,Bielefeld,11,8,5,3,1,6,17,19,6,5,0,0,0,0,A
+Leverkusen,Bayern Munich,8,14,3,3,5,7,13,6,1,1,0,0,1,1,A
+Freiburg,Hertha,17,10,9,3,7,3,9,16,0,0,0,0,1,0,H
+Wolfsburg,Stuttgart,13,9,4,1,4,6,15,7,2,3,0,0,0,0,H
+Bielefeld,M'gladbach,7,22,0,7,3,14,8,7,2,1,0,0,0,0,A
+Ein Frankfurt,Leverkusen,10,10,4,2,2,7,9,6,0,0,0,0,1,1,H
+FC Koln,Augsburg,12,11,2,4,8,3,20,12,2,3,0,0,0,0,A
+Hoffenheim,Freiburg,13,7,6,4,8,3,14,22,2,2,0,0,0,3,A
+Werder Bremen,Union Berlin,10,9,2,2,6,5,15,14,2,4,0,0,0,2,A
+Hertha,Schalke 04,20,10,10,4,9,5,11,18,2,2,0,0,1,0,H
+Stuttgart,RB Leipzig,10,22,1,9,3,6,10,10,2,1,0,0,0,0,A
+Dortmund,Wolfsburg,14,22,7,5,10,5,9,12,3,1,0,0,0,0,H
+Bayern Munich,Mainz,19,12,12,7,10,2,11,9,2,1,0,0,0,2,H
+M'gladbach,Bayern Munich,8,15,4,4,3,8,9,11,1,1,0,0,2,2,H
+Freiburg,FC Koln,12,5,6,2,1,3,14,10,0,0,0,0,2,0,H
+Leverkusen,Werder Bremen,12,3,3,1,3,1,22,13,2,2,0,0,0,0,D
+Mainz,Ein Frankfurt,8,15,0,7,3,7,17,15,2,1,0,0,0,1,A
+Schalke 04,Hoffenheim,12,18,5,5,5,4,14,13,2,4,0,0,1,0,H
+Union Berlin,Wolfsburg,13,11,6,5,5,3,16,13,3,1,0,1,1,1,D
+RB Leipzig,Dortmund,12,15,4,7,3,3,8,12,0,2,0,0,0,0,A
+Augsburg,Stuttgart,14,27,4,11,4,11,7,12,3,2,1,0,0,2,A
+Bielefeld,Hertha,12,10,2,6,8,3,8,18,1,1,0,0,0,0,H
+Union Berlin,Leverkusen,10,12,2,4,2,3,9,10,1,2,0,0,0,0,H
+Dortmund,Mainz,17,8,7,3,1,2,10,19,1,2,0,0,0,0,D
+FC Koln,Hertha,8,14,2,3,5,4,13,19,2,3,0,0,0,0,D
+Hoffenheim,Bielefeld,11,8,5,2,5,3,9,21,1,1,0,0,0,0,D
+Werder Bremen,Augsburg,10,6,5,2,4,4,10,18,0,1,0,0,0,0,H
+Wolfsburg,RB Leipzig,8,13,2,9,6,6,16,9,4,3,0,0,2,1,D
+Stuttgart,M'gladbach,19,8,7,5,5,2,11,20,2,3,0,0,0,1,D
+Bayern Munich,Freiburg,25,8,9,3,14,3,4,14,1,2,0,0,1,0,H
+Ein Frankfurt,Schalke 04,20,5,11,1,8,2,8,10,0,1,0,0,1,1,H
+M'gladbach,Werder Bremen,11,11,6,2,7,5,15,11,2,2,0,0,0,0,H
+Hertha,Hoffenheim,13,11,2,6,3,2,16,16,1,1,0,0,0,1,A
+Leverkusen,Dortmund,23,15,13,3,6,5,13,8,2,2,0,0,1,0,H
+Mainz,Wolfsburg,8,8,0,2,2,5,17,15,1,2,0,0,0,0,A
+Schalke 04,FC Koln,15,12,8,4,5,8,7,11,2,1,0,0,0,1,A
+Augsburg,Bayern Munich,9,17,0,4,5,7,15,11,2,0,0,0,0,1,A
+Bielefeld,Stuttgart,9,11,3,3,2,6,9,9,1,0,0,0,1,0,H
+Freiburg,Ein Frankfurt,11,17,4,4,4,5,10,15,3,3,0,0,1,1,D
+RB Leipzig,Union Berlin,15,4,5,1,5,1,6,11,1,1,0,0,0,0,H
+M'gladbach,Dortmund,10,16,7,7,3,7,9,9,1,0,0,0,2,2,H
+Augsburg,Union Berlin,8,9,4,5,2,3,13,21,3,1,0,0,1,1,H
+Bielefeld,Ein Frankfurt,8,15,4,8,0,8,14,22,2,2,0,0,1,3,A
+Freiburg,Stuttgart,9,27,4,11,3,5,20,12,2,0,0,0,2,1,H
+Leverkusen,Wolfsburg,10,8,4,4,6,2,13,7,1,1,0,0,0,1,A
+Mainz,RB Leipzig,10,12,4,5,3,9,13,16,2,4,0,0,2,2,H
+Hertha,Werder Bremen,18,7,10,5,7,1,16,12,2,3,0,0,1,2,A
+Schalke 04,Bayern Munich,14,32,4,14,3,7,5,9,1,1,0,0,0,1,A
+Hoffenheim,FC Koln,13,13,4,4,6,9,8,13,2,3,0,0,2,0,H
+Stuttgart,Mainz,9,10,3,2,2,4,9,20,1,4,0,0,0,0,H
+Bayern Munich,Hoffenheim,15,15,9,5,10,4,10,8,1,0,0,0,2,1,H
+Dortmund,Augsburg,14,5,5,1,10,1,12,11,0,1,0,0,1,1,H
+Ein Frankfurt,Hertha,17,11,8,4,4,7,17,14,1,4,0,0,0,0,H
+Union Berlin,M'gladbach,13,12,3,4,2,9,12,13,1,3,0,0,1,0,D
+Werder Bremen,Schalke 04,15,6,6,1,6,1,11,20,0,4,0,0,0,1,D
+RB Leipzig,Leverkusen,16,8,2,4,6,6,11,15,2,2,0,0,0,0,H
+FC Koln,Bielefeld,14,9,7,3,3,5,15,17,2,1,0,0,2,0,H
+Wolfsburg,Freiburg,12,9,6,2,5,10,13,10,0,0,0,0,2,0,H
+Hertha,Bayern Munich,11,17,7,7,3,11,12,15,2,1,0,0,0,1,A
+Augsburg,Wolfsburg,9,17,1,9,7,4,10,15,2,0,0,0,0,1,A
+Freiburg,Dortmund,6,16,3,5,1,1,12,12,1,2,0,0,0,0,H
+Leverkusen,Stuttgart,25,14,11,7,4,4,12,9,0,0,0,0,2,0,H
+Mainz,Union Berlin,9,10,5,3,3,1,12,11,2,5,0,1,1,0,H
+Schalke 04,RB Leipzig,3,24,1,10,1,7,14,16,2,1,0,0,0,1,A
+M'gladbach,FC Koln,10,7,2,3,4,1,17,11,4,2,0,0,1,1,A
+Hoffenheim,Ein Frankfurt,8,9,2,5,4,7,15,12,0,3,0,0,0,1,A
+RB Leipzig,Augsburg,16,4,6,2,3,4,23,15,3,5,0,0,2,0,H
+Dortmund,Hoffenheim,6,12,3,6,1,7,21,16,3,7,0,0,1,1,D
+Leverkusen,Mainz,11,19,5,6,2,2,13,17,5,1,0,0,1,0,D
+Stuttgart,Hertha,11,11,3,3,1,5,21,17,2,2,0,0,1,0,D
+Werder Bremen,Freiburg,12,8,4,2,4,1,4,20,0,2,0,0,0,0,D
+Union Berlin,Schalke 04,19,6,3,1,1,6,14,15,3,2,0,0,0,0,D
+Ein Frankfurt,FC Koln,17,6,7,1,7,2,14,4,3,1,0,0,0,0,H
+Wolfsburg,M'gladbach,18,12,6,4,9,6,10,11,1,3,0,0,0,0,D
+Bayern Munich,Bielefeld,19,7,11,3,5,2,7,13,1,1,0,0,0,2,D
+Bielefeld,Wolfsburg,7,11,2,6,3,8,10,14,0,2,0,0,0,1,A
+Ein Frankfurt,Bayern Munich,12,22,6,6,6,10,12,7,2,1,0,0,2,0,H
+FC Koln,Stuttgart,9,9,0,3,0,6,15,10,2,1,0,0,0,0,A
+Freiburg,Union Berlin,9,15,1,4,2,4,15,14,2,2,0,0,0,0,A
+M'gladbach,Mainz,12,8,3,6,4,4,10,16,1,1,0,0,1,1,A
+Schalke 04,Dortmund,13,9,2,6,4,2,9,13,2,2,0,0,0,2,A
+Augsburg,Leverkusen,6,10,3,3,1,4,16,13,2,4,0,0,1,0,D
+Hertha,RB Leipzig,8,14,4,7,3,4,10,8,1,1,0,0,0,1,A
+Hoffenheim,Werder Bremen,12,3,6,1,6,3,16,12,2,2,0,0,2,0,H
+Werder Bremen,Ein Frankfurt,9,13,5,4,2,8,9,15,4,3,0,0,0,1,H
+Bayern Munich,FC Koln,15,6,7,3,4,4,7,9,2,1,0,0,2,0,H
+Dortmund,Bielefeld,20,8,9,2,5,2,12,16,0,3,0,0,0,0,H
+Stuttgart,Schalke 04,19,11,10,5,11,9,15,18,2,3,0,0,3,1,H
+Wolfsburg,Hertha,11,7,2,2,3,5,15,14,5,0,1,0,1,0,H
+RB Leipzig,M'gladbach,21,5,11,2,3,4,20,15,2,2,0,0,0,2,H
+Union Berlin,Hoffenheim,4,15,1,4,3,4,13,12,0,2,0,0,1,1,D
+Mainz,Augsburg,10,8,5,3,5,3,9,7,1,2,0,0,0,1,A
+Leverkusen,Freiburg,21,6,5,3,8,3,12,11,2,3,0,0,0,0,A
+Schalke 04,Mainz,2,19,2,2,2,6,10,16,2,2,0,0,0,0,D
+Ein Frankfurt,Stuttgart,19,8,8,1,13,4,15,17,2,3,0,0,0,0,D
+Freiburg,RB Leipzig,5,13,1,8,1,2,10,13,1,1,0,0,0,1,A
+Hertha,Augsburg,17,7,7,4,6,1,15,13,2,3,0,0,0,1,H
+Hoffenheim,Wolfsburg,9,17,4,5,2,6,13,15,2,4,0,1,2,1,H
+M'gladbach,Leverkusen,7,13,3,5,7,8,6,10,0,2,0,0,0,0,A
+Bayern Munich,Dortmund,25,4,9,3,6,0,8,13,1,1,0,0,2,2,H
+FC Koln,Werder Bremen,16,11,4,5,9,3,13,10,2,0,0,0,0,0,D
+Bielefeld,Union Berlin,5,7,3,3,3,3,9,5,0,0,0,0,0,0,D
+Bielefeld,Werder Bremen,22,5,7,2,9,0,12,9,0,2,1,0,0,0,A
+Augsburg,M'gladbach,10,28,3,7,1,10,6,10,0,0,0,0,0,0,H
+Mainz,Freiburg,10,13,7,3,0,4,25,15,1,3,0,0,0,0,H
+Union Berlin,FC Koln,13,9,8,5,6,6,20,13,2,3,0,0,0,1,H
+Werder Bremen,Bayern Munich,9,22,4,6,3,8,5,9,1,0,0,0,0,2,A
+Wolfsburg,Schalke 04,16,7,7,2,3,8,12,8,0,1,0,0,1,0,H
+Dortmund,Hertha,14,4,4,0,7,0,6,11,1,1,0,1,0,0,H
+Leverkusen,Bielefeld,20,10,8,5,9,5,16,9,2,1,0,0,0,1,A
+RB Leipzig,Ein Frankfurt,14,5,8,2,4,3,14,21,2,3,0,0,0,0,D
+Stuttgart,Hoffenheim,7,16,4,5,4,4,14,9,0,2,0,0,1,0,H
+Bielefeld,RB Leipzig,5,20,0,8,1,7,10,12,2,1,0,0,0,0,A
+Bayern Munich,Stuttgart,15,12,7,4,1,3,10,12,1,2,1,0,4,0,H
+Ein Frankfurt,Union Berlin,9,24,5,8,2,4,9,10,1,2,0,0,4,2,H
+FC Koln,Dortmund,10,13,2,4,5,2,4,12,1,1,0,0,1,1,D
+Werder Bremen,Wolfsburg,11,16,4,5,3,9,15,15,3,1,0,0,1,2,A
+Schalke 04,M'gladbach,4,21,1,7,2,7,8,8,1,2,0,0,0,1,A
+Hoffenheim,Mainz,8,16,2,7,2,9,14,12,0,0,0,0,1,2,A
+Hertha,Leverkusen,13,9,10,1,4,8,10,20,0,2,0,0,3,0,H
+Freiburg,Augsburg,10,19,3,8,3,5,21,13,7,2,0,0,0,0,H
+Augsburg,Hoffenheim,7,16,2,6,2,10,7,11,1,1,0,0,2,0,H
+Dortmund,Ein Frankfurt,20,15,7,3,10,2,9,12,0,3,0,0,1,1,A
+Leverkusen,Schalke 04,6,4,2,2,5,4,13,9,1,0,0,0,1,0,H
+Mainz,Bielefeld,12,9,5,2,2,3,27,10,4,1,0,0,0,0,D
+Wolfsburg,FC Koln,13,10,6,1,5,4,18,11,2,1,0,0,0,0,H
+RB Leipzig,Bayern Munich,13,9,3,5,8,4,13,9,3,2,0,0,0,1,A
+M'gladbach,Freiburg,19,7,5,4,0,3,11,14,1,3,0,0,0,1,H
+Stuttgart,Werder Bremen,14,9,3,2,6,0,8,8,1,2,0,0,0,0,H
+Union Berlin,Hertha,11,4,3,1,2,3,13,12,2,4,0,0,1,1,D
+Bielefeld,Freiburg,14,10,4,2,4,2,8,10,3,2,0,0,0,0,H
+Bayern Munich,Union Berlin,14,6,2,2,8,1,10,12,2,0,0,0,0,0,D
+Ein Frankfurt,Wolfsburg,9,20,5,7,3,7,11,13,3,2,0,0,2,1,H
+Hertha,M'gladbach,24,7,8,4,11,3,12,17,2,1,0,1,1,2,D
+Werder Bremen,RB Leipzig,11,8,2,4,2,2,13,10,0,0,0,0,0,3,A
+Stuttgart,Dortmund,13,18,3,7,3,8,13,11,4,2,0,0,1,0,A
+Schalke 04,Augsburg,7,13,2,4,4,6,10,14,0,2,0,0,1,0,H
+FC Koln,Mainz,22,9,4,6,2,5,14,14,2,1,0,0,1,1,A
+Hoffenheim,Leverkusen,2,7,0,5,1,1,14,12,1,1,0,0,0,0,D
+RB Leipzig,Hoffenheim,14,6,2,0,4,1,14,13,0,2,0,0,0,0,D
+Augsburg,Bielefeld,9,8,3,1,7,3,10,9,4,1,0,0,0,0,D
+Freiburg,Schalke 04,13,4,8,2,3,4,15,12,2,1,0,0,2,0,H
+M'gladbach,Ein Frankfurt,19,16,4,5,7,8,11,10,2,4,0,0,1,0,H
+Union Berlin,Stuttgart,9,9,4,2,4,4,15,12,2,3,0,0,2,0,H
+Wolfsburg,Bayern Munich,7,14,3,9,6,5,16,8,2,1,0,0,1,3,A
+Leverkusen,FC Koln,8,14,5,2,2,3,12,12,1,1,0,0,1,0,H
+Dortmund,Werder Bremen,19,10,9,3,7,4,8,14,1,4,0,0,3,1,H
+FC Koln,RB Leipzig,5,23,3,6,0,8,9,16,2,3,0,0,0,0,H
+Bayern Munich,Leverkusen,26,6,9,3,7,3,6,14,0,0,0,0,2,0,H
+Bielefeld,Schalke 04,10,3,5,0,4,2,14,12,3,5,0,1,0,0,H
+Ein Frankfurt,Augsburg,12,14,4,4,7,5,18,8,3,1,0,0,1,0,H
+Dortmund,Union Berlin,21,6,11,2,4,3,12,10,2,1,0,0,1,0,H
+Hoffenheim,M'gladbach,19,5,6,3,5,4,9,5,3,0,0,0,0,2,H
+Stuttgart,Wolfsburg,11,13,4,4,4,1,12,11,3,0,0,0,0,2,A
+Werder Bremen,Mainz,18,13,4,5,10,4,7,13,1,2,0,0,0,1,A
+Augsburg,FC Koln,13,14,5,6,6,3,17,13,2,3,0,0,0,3,A
+Freiburg,Hoffenheim,15,16,7,4,6,5,10,12,1,2,0,0,0,1,D
+Mainz,Bayern Munich,8,17,4,4,2,3,12,15,3,4,0,0,2,0,H
+Union Berlin,Werder Bremen,17,9,6,5,11,2,10,8,0,0,0,0,0,0,H
+Wolfsburg,Dortmund,21,8,2,4,10,2,10,12,1,3,0,1,0,1,A
+Leverkusen,Ein Frankfurt,18,12,10,4,5,6,9,8,1,1,0,0,0,0,H
+RB Leipzig,Stuttgart,24,2,11,0,10,1,19,8,2,0,0,1,0,0,H
+M'gladbach,Bielefeld,20,10,12,5,4,1,11,8,1,1,0,0,3,0,H
+Mainz,Hertha,16,7,9,5,6,4,18,13,2,3,0,0,1,1,D
+Hertha,Freiburg,13,15,6,4,4,6,10,13,4,3,0,0,2,0,H
+Stuttgart,Augsburg,14,20,6,9,2,12,14,12,0,0,0,0,1,0,H
+Dortmund,RB Leipzig,15,14,4,7,7,7,8,13,1,1,0,0,1,0,H
+Hoffenheim,Schalke 04,20,6,12,3,9,3,11,12,1,2,0,0,0,2,H
+Werder Bremen,Leverkusen,13,14,2,4,4,6,9,14,3,2,1,0,0,0,D
+Wolfsburg,Union Berlin,17,9,8,1,4,3,9,9,1,0,0,0,1,0,H
+Bayern Munich,M'gladbach,22,14,7,2,5,3,3,9,0,2,1,0,4,0,H
+FC Koln,Freiburg,18,11,2,6,3,2,15,16,2,2,0,0,0,2,A
+Ein Frankfurt,Mainz,14,6,4,3,8,2,10,14,2,0,0,0,0,1,D
+Hertha,Bielefeld,11,12,4,5,4,3,13,9,3,4,0,0,0,0,D
+Schalke 04,Hertha,12,18,1,6,1,7,9,11,3,5,0,1,1,1,A
+Augsburg,Werder Bremen,15,16,7,5,5,5,12,17,3,3,1,1,0,0,H
+Bielefeld,Hoffenheim,17,7,6,3,10,4,5,8,1,2,0,0,1,1,D
+Freiburg,Bayern Munich,13,16,4,6,4,8,10,13,1,2,0,0,1,1,D
+Hertha,FC Koln,1,11,1,3,1,5,11,12,2,2,0,0,0,0,D
+Leverkusen,Union Berlin,9,15,4,6,4,5,9,16,2,2,0,0,1,0,D
+M'gladbach,Stuttgart,9,11,4,7,2,1,14,14,2,4,0,0,1,0,A
+Schalke 04,Ein Frankfurt,11,24,6,9,1,13,9,11,0,2,0,0,1,1,H
+Mainz,Dortmund,9,13,5,4,4,2,9,11,0,0,0,0,0,2,A
+RB Leipzig,Wolfsburg,14,12,4,4,11,3,13,15,3,3,0,0,0,2,D
+Bayern Munich,Augsburg,24,9,13,5,10,2,6,9,1,1,0,0,4,0,H
+Dortmund,Leverkusen,10,16,4,7,3,6,6,8,0,0,0,0,1,0,H
+Ein Frankfurt,Freiburg,18,11,11,6,8,1,7,10,1,0,0,0,0,0,H
+FC Koln,Schalke 04,20,7,10,1,8,4,14,12,1,2,0,0,0,0,H
+Hoffenheim,Hertha,21,9,5,5,4,3,8,5,0,0,0,0,0,1,H
+Stuttgart,Bielefeld,11,11,0,3,3,6,12,11,1,0,0,0,0,0,A
+Union Berlin,RB Leipzig,11,17,5,7,7,3,15,10,2,1,0,0,0,0,H
+Werder Bremen,M'gladbach,16,15,8,8,3,5,19,12,1,2,0,0,0,1,A
+Wolfsburg,Mainz,16,14,5,8,7,7,12,19,3,3,0,0,0,1,A

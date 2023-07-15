@@ -1,0 +1,281 @@
+HomeTeam,AwayTeam,HS,AS,HST,AST,HC,AC,HF,AF,HY,AY,HR,AR,HTHG,HTAG,FTR
+Ajaccio,Le Havre,12,12,4,3,5,8,12,15,4,5,0,1,1,0,D
+Chambly,Valenciennes,14,9,5,0,2,5,21,16,2,2,0,0,0,0,H
+Clermont,Chateauroux,11,11,7,5,8,3,13,16,1,3,0,1,1,0,H
+Guingamp,Grenoble,22,5,8,3,8,1,8,17,1,2,0,0,2,0,D
+Nancy,Orleans,8,6,1,3,6,2,15,15,1,1,0,0,0,0,D
+Niort,Troyes,4,14,2,5,1,5,12,15,2,1,0,0,0,1,A
+Rodez,Auxerre,10,17,3,4,4,3,11,18,1,2,0,0,2,0,H
+Sochaux,Caen,11,3,0,0,3,5,13,22,1,3,0,0,0,0,D
+Le Mans,Lens,21,14,4,5,5,2,18,12,1,0,0,0,1,0,A
+Lorient,Paris FC,13,3,4,2,8,2,14,13,0,4,0,1,1,0,H
+Auxerre,Le Mans,20,6,6,3,2,4,9,12,1,2,0,0,0,0,H
+Chateauroux,Rodez,10,10,2,0,1,3,18,9,2,2,0,0,0,0,D
+Grenoble,Ajaccio,7,11,0,5,3,2,14,18,4,3,0,0,0,0,A
+Le Havre,Niort,14,8,4,2,5,3,11,15,1,2,0,0,0,1,D
+Orleans,Chambly,15,9,4,2,7,4,13,15,0,2,1,1,0,1,A
+Paris FC,Sochaux,9,6,2,1,7,1,12,15,1,2,0,0,1,0,D
+Troyes,Clermont,10,7,3,5,1,4,18,15,3,1,1,0,1,0,A
+Valenciennes,Nancy,7,19,1,8,2,5,13,15,1,0,0,0,1,0,D
+Lens,Guingamp,14,12,6,2,2,8,10,13,2,3,0,0,0,0,H
+Caen,Lorient,7,6,4,2,5,2,13,13,4,2,0,0,0,2,A
+Ajaccio,Caen,23,6,7,4,13,7,13,8,4,1,1,1,0,2,A
+Chambly,Grenoble,5,7,1,2,7,1,14,15,3,1,0,0,0,0,D
+Guingamp,Orleans,11,8,5,4,3,5,10,15,1,3,0,0,1,0,H
+Le Mans,Valenciennes,21,12,7,5,12,2,16,18,1,2,0,0,0,0,A
+Nancy,Lorient,7,9,2,2,3,7,19,20,3,5,0,1,0,0,D
+Niort,Chateauroux,17,8,11,0,3,4,16,10,1,1,0,1,1,0,H
+Rodez,Paris FC,8,7,5,3,6,2,17,15,2,3,0,1,1,1,H
+Sochaux,Auxerre,8,6,3,0,3,5,13,13,1,3,0,0,0,0,H
+Troyes,Le Havre,15,11,5,5,10,5,7,10,0,3,0,1,0,1,A
+Clermont,Lens,11,13,4,6,5,3,12,18,2,2,0,0,0,0,D
+Caen,Chambly,9,8,1,2,8,1,9,17,2,4,0,0,0,0,D
+Chateauroux,Ajaccio,13,3,5,1,6,2,12,10,1,1,1,0,0,1,A
+Grenoble,Troyes,12,8,3,3,10,5,12,16,3,1,0,0,0,0,D
+Lorient,Sochaux,11,8,2,0,6,3,6,17,0,4,0,0,0,0,H
+Nancy,Le Mans,11,9,4,3,5,4,13,18,5,2,2,1,1,0,H
+Orleans,Clermont,12,5,2,3,9,2,11,19,2,3,0,0,0,1,A
+Paris FC,Niort,17,10,4,3,12,3,14,21,3,3,0,0,0,0,A
+Valenciennes,Rodez,17,13,6,4,5,5,9,11,2,2,0,0,0,0,H
+Lens,Le Havre,12,11,4,4,5,3,13,15,4,2,0,0,0,0,A
+Auxerre,Guingamp,17,10,6,5,8,4,15,14,2,1,0,0,0,2,D
+Ajaccio,Paris FC,11,7,5,3,1,3,18,12,2,2,0,0,0,0,H
+Chambly,Chateauroux,11,8,1,2,5,0,12,16,2,3,0,0,0,0,D
+Clermont,Auxerre,9,10,4,3,4,1,14,12,0,3,0,0,1,0,D
+Le Havre,Grenoble,9,13,6,4,2,6,10,12,0,4,0,0,2,1,H
+Le Mans,Lorient,15,9,3,4,12,4,17,15,1,2,0,0,0,2,A
+Niort,Caen,11,12,3,4,5,3,15,15,0,1,0,0,0,1,D
+Rodez,Orleans,14,17,6,10,3,6,17,13,4,3,1,0,1,1,D
+Sochaux,Nancy,10,5,4,0,2,2,20,17,3,4,0,0,1,0,H
+Troyes,Lens,12,7,6,1,9,5,16,14,4,1,0,0,1,0,H
+Guingamp,Valenciennes,14,9,6,3,9,9,15,15,3,2,0,0,0,1,A
+Auxerre,Ajaccio,18,9,8,2,7,3,11,11,3,1,0,0,0,0,H
+Caen,Le Havre,13,12,2,4,10,2,10,12,0,2,0,0,0,1,A
+Chateauroux,Troyes,14,16,5,8,6,5,12,16,3,3,0,0,0,1,A
+Le Mans,Sochaux,9,6,3,3,6,2,23,22,2,2,0,0,1,0,H
+Nancy,Rodez,11,10,1,3,4,4,13,15,2,2,0,0,0,1,D
+Orleans,Niort,13,18,5,7,8,11,8,10,1,1,0,0,0,0,A
+Valenciennes,Clermont,16,15,8,5,4,7,12,11,5,3,0,0,0,0,H
+Lorient,Guingamp,12,15,3,4,5,8,11,10,1,2,0,0,0,0,A
+Paris FC,Chambly,8,10,2,5,2,4,12,13,4,1,1,0,0,2,A
+Grenoble,Lens,9,11,4,4,2,7,20,22,2,2,0,0,1,1,D
+Ajaccio,Orleans,7,6,1,1,2,4,8,17,2,2,0,0,0,0,D
+Chambly,Auxerre,18,8,8,5,6,1,11,12,1,1,0,0,0,0,A
+Guingamp,Nancy,14,9,2,6,4,4,13,11,3,2,0,0,1,1,D
+Le Havre,Paris FC,13,6,2,1,7,4,18,10,2,4,1,1,0,0,D
+Niort,Grenoble,9,17,1,7,2,10,15,16,4,1,0,0,0,0,A
+Rodez,Le Mans,13,8,6,3,5,2,8,12,1,3,0,1,2,0,H
+Sochaux,Valenciennes,17,6,2,2,6,4,13,6,1,1,0,0,0,0,D
+Troyes,Caen,16,3,7,2,5,3,9,17,2,1,0,0,1,0,H
+Clermont,Lorient,20,5,6,3,6,3,13,12,2,2,0,1,0,2,A
+Lens,Chateauroux,14,10,6,5,2,6,14,22,1,5,0,1,0,0,H
+Auxerre,Troyes,10,16,2,7,5,6,15,21,1,5,1,0,1,1,A
+Chateauroux,Grenoble,18,12,9,4,7,3,16,11,1,2,0,0,1,0,D
+Le Mans,Ajaccio,17,13,5,5,3,3,12,20,2,2,0,0,0,0,A
+Nancy,Chambly,17,8,10,0,11,5,12,13,2,4,0,0,1,0,H
+Orleans,Le Havre,17,8,5,3,4,4,9,15,0,2,0,0,1,1,D
+Paris FC,Clermont,7,16,3,7,3,7,15,6,2,0,0,0,0,2,A
+Sochaux,Guingamp,13,9,6,1,4,3,16,14,0,3,0,1,2,1,H
+Valenciennes,Niort,21,7,4,2,2,2,12,16,2,5,0,2,1,1,D
+Caen,Lens,13,9,1,1,6,4,11,20,4,1,0,0,0,1,A
+Lorient,Rodez,17,14,4,3,6,8,15,8,2,1,0,0,0,0,H
+Ajaccio,Valenciennes,12,11,4,3,5,3,18,10,1,1,0,0,2,0,H
+Chambly,Lorient,7,17,2,4,3,4,6,11,2,1,0,0,0,0,A
+Clermont,Nancy,9,8,3,2,8,1,6,12,2,3,0,0,2,2,D
+Grenoble,Caen,9,9,3,3,6,7,13,15,1,2,0,0,1,0,H
+Le Havre,Chateauroux,15,13,5,5,5,3,13,10,1,5,1,1,0,0,A
+Niort,Auxerre,10,15,6,4,4,4,15,11,1,0,0,0,1,0,D
+Rodez,Sochaux,11,18,4,6,3,6,14,9,3,3,0,0,0,1,A
+Troyes,Orleans,19,13,5,5,7,3,11,19,1,3,0,1,1,1,A
+Lens,Paris FC,14,10,6,3,5,5,15,12,2,2,0,0,2,0,H
+Guingamp,Le Mans,21,10,7,2,3,1,17,17,2,2,0,0,1,0,H
+Caen,Chateauroux,17,13,5,6,3,2,16,14,1,0,0,0,0,0,D
+Guingamp,Rodez,20,10,9,1,10,3,12,12,1,2,0,0,2,1,H
+Le Mans,Chambly,14,4,4,1,4,2,13,15,2,2,0,0,0,0,H
+Lorient,Ajaccio,19,6,3,4,5,1,11,11,1,2,0,0,0,0,D
+Nancy,Niort,18,3,5,1,7,2,20,13,3,1,0,1,0,1,H
+Paris FC,Troyes,5,13,1,2,3,6,15,19,3,2,0,0,1,0,H
+Sochaux,Clermont,12,17,6,4,3,3,15,11,3,2,0,0,1,0,H
+Valenciennes,Grenoble,10,12,3,4,3,2,16,16,4,2,0,0,0,1,A
+Auxerre,Le Havre,7,10,3,0,5,5,16,12,3,2,0,0,2,0,H
+Orleans,Lens,3,9,1,7,1,6,19,14,2,1,0,0,1,0,A
+Ajaccio,Nancy,8,9,1,2,3,9,13,16,1,1,0,0,0,0,D
+Caen,Valenciennes,11,3,1,0,8,2,20,17,2,3,0,0,0,0,D
+Chambly,Sochaux,6,4,2,2,3,3,15,13,2,0,0,0,0,0,D
+Chateauroux,Paris FC,16,10,5,2,8,2,14,13,3,6,0,0,0,1,A
+Clermont,Rodez,14,7,7,3,3,4,18,19,3,1,1,0,0,0,A
+Grenoble,Orleans,10,3,3,1,6,1,14,12,1,1,0,0,0,0,D
+Niort,Guingamp,4,12,1,2,3,2,20,14,2,2,0,0,0,0,D
+Troyes,Le Mans,9,10,7,6,5,5,13,24,2,3,0,0,1,1,H
+Le Havre,Lorient,19,10,3,4,5,1,14,13,4,3,0,0,1,2,D
+Lens,Auxerre,13,10,2,2,5,3,16,17,1,2,0,0,0,0,D
+Auxerre,Grenoble,10,7,1,3,8,3,7,17,3,1,1,0,0,1,A
+Guingamp,Clermont,17,18,3,5,7,2,10,12,2,0,0,0,0,2,A
+Le Mans,Niort,7,10,4,4,1,5,14,17,0,2,0,0,0,0,H
+Nancy,Lens,21,5,5,1,12,1,26,16,2,2,0,0,0,0,D
+Orleans,Chateauroux,17,18,4,5,9,7,14,9,2,2,0,0,1,0,D
+Paris FC,Caen,11,11,4,7,6,2,16,20,3,2,0,0,0,1,A
+Rodez,Chambly,13,6,5,2,5,2,11,15,1,2,0,0,1,0,H
+Sochaux,Ajaccio,7,14,2,5,7,5,9,18,3,3,0,0,0,1,A
+Lorient,Troyes,8,6,4,5,6,1,12,9,1,2,0,0,0,0,A
+Valenciennes,Le Havre,9,19,0,4,4,6,9,18,3,0,0,1,0,0,D
+Ajaccio,Rodez,8,6,2,1,7,3,10,16,0,0,0,0,0,0,H
+Caen,Orleans,11,15,4,5,5,3,15,15,2,3,0,0,1,0,H
+Chambly,Guingamp,14,16,4,7,5,4,15,14,3,3,0,0,1,2,A
+Chateauroux,Auxerre,10,15,3,3,6,7,13,8,2,2,0,1,0,0,H
+Troyes,Valenciennes,17,9,8,3,7,7,17,20,3,3,1,0,0,0,H
+Clermont,Le Mans,14,8,3,2,7,1,14,15,2,4,1,0,0,1,A
+Grenoble,Paris FC,7,12,4,5,3,1,15,20,2,2,2,0,0,0,D
+Lens,Lorient,10,7,4,3,6,3,14,18,5,3,0,0,0,0,H
+Niort,Sochaux,9,15,1,6,5,7,19,8,3,1,0,0,0,0,A
+Le Havre,Nancy,12,13,7,4,5,3,17,20,2,3,0,0,1,0,D
+Auxerre,Caen,12,5,3,2,6,6,20,14,3,2,1,0,0,0,D
+Chambly,Clermont,10,12,2,2,6,4,10,20,3,1,0,0,0,0,A
+Le Mans,Grenoble,7,11,0,4,3,2,21,21,0,2,0,0,0,0,D
+Lorient,Niort,22,7,8,2,4,6,14,20,1,2,0,0,4,1,H
+Nancy,Troyes,7,10,1,3,7,5,16,11,2,1,0,0,0,0,D
+Orleans,Paris FC,19,4,3,3,17,3,12,12,2,1,0,0,0,1,A
+Sochaux,Le Havre,9,16,5,7,4,6,10,14,1,1,0,0,1,0,H
+Valenciennes,Chateauroux,17,20,4,9,5,3,10,7,2,1,3,1,0,0,A
+Guingamp,Ajaccio,16,6,5,1,8,4,9,8,1,2,0,0,0,1,D
+Rodez,Lens,5,14,3,6,2,10,17,14,2,2,0,0,1,1,A
+Ajaccio,Clermont,12,11,3,4,2,6,11,17,2,3,0,0,1,0,D
+Caen,Le Mans,13,12,6,5,8,3,20,16,3,1,0,0,2,1,D
+Chateauroux,Lorient,10,21,3,10,3,11,12,12,2,1,0,0,1,0,A
+Grenoble,Nancy,13,8,5,2,2,7,15,16,2,0,0,0,0,0,D
+Niort,Rodez,15,10,6,3,4,10,12,12,0,1,0,0,0,0,H
+Orleans,Valenciennes,14,6,3,2,6,2,19,11,4,1,0,0,0,1,A
+Paris FC,Auxerre,12,17,5,6,1,8,11,15,2,0,0,0,0,0,H
+Troyes,Chambly,13,7,0,6,6,2,13,14,2,0,0,0,0,2,A
+Lens,Sochaux,11,5,6,1,6,2,18,18,5,4,0,1,2,0,H
+Le Havre,Guingamp,18,10,7,2,7,9,14,8,2,0,0,0,0,0,H
+Auxerre,Orleans,13,9,3,3,4,1,9,20,1,3,0,0,1,1,D
+Chambly,Ajaccio,12,18,2,7,3,7,12,15,4,3,1,0,0,1,A
+Clermont,Niort,12,10,5,3,5,2,6,15,0,0,0,1,1,0,H
+Guingamp,Caen,12,9,1,5,2,4,8,17,1,1,1,0,1,0,D
+Le Mans,Chateauroux,19,16,4,6,6,4,7,18,1,2,0,0,1,0,A
+Lorient,Grenoble,11,13,4,4,4,7,17,9,1,0,0,0,2,0,H
+Nancy,Paris FC,19,10,8,5,9,2,17,18,1,2,0,0,1,0,H
+Rodez,Le Havre,8,11,3,4,6,4,16,12,5,3,0,0,1,0,A
+Valenciennes,Lens,12,10,6,4,1,4,18,11,5,3,0,2,1,0,H
+Sochaux,Troyes,7,5,2,1,8,1,15,21,3,1,1,0,0,0,A
+Caen,Nancy,10,4,2,3,5,3,12,17,3,2,0,0,0,0,H
+Auxerre,Valenciennes,11,9,2,4,4,8,15,11,2,1,0,0,1,0,D
+Chateauroux,Sochaux,13,10,5,3,8,4,9,10,2,1,0,0,0,1,D
+Grenoble,Clermont,12,12,3,3,4,9,12,11,1,3,0,0,1,0,D
+Le Havre,Le Mans,16,14,6,3,4,3,19,9,1,2,0,0,1,0,H
+Lens,Chambly,9,5,4,2,1,1,14,15,1,2,0,0,1,0,H
+Niort,Ajaccio,7,13,1,5,3,8,15,8,3,1,0,0,0,1,A
+Orleans,Lorient,10,15,4,8,3,3,11,12,1,0,0,0,0,2,A
+Paris FC,Guingamp,10,10,2,5,4,5,20,20,5,1,0,0,0,1,A
+Troyes,Rodez,10,10,4,1,0,5,11,15,1,2,0,0,1,0,H
+Chambly,Niort,11,14,5,4,3,2,15,16,3,4,0,0,2,2,H
+Clermont,Le Havre,8,14,2,3,6,3,10,13,0,1,0,0,1,1,H
+Le Mans,Orleans,12,12,5,3,3,1,15,13,2,2,0,0,1,2,H
+Lorient,Auxerre,12,13,5,2,7,4,17,13,3,1,0,0,0,0,H
+Nancy,Chateauroux,22,10,12,4,7,3,11,15,0,2,0,0,0,1,H
+Rodez,Caen,12,7,5,4,5,2,11,18,1,4,0,0,0,0,H
+Sochaux,Grenoble,8,15,2,5,2,6,16,16,1,3,0,0,0,0,D
+Valenciennes,Paris FC,18,8,5,1,10,0,14,11,2,1,0,0,0,0,H
+Ajaccio,Lens,6,12,2,5,1,9,17,17,2,1,0,0,1,0,A
+Guingamp,Troyes,20,10,1,3,10,2,16,11,2,2,1,0,0,0,A
+Auxerre,Nancy,20,4,5,0,9,4,14,9,3,3,0,1,0,0,D
+Caen,Clermont,15,12,3,1,7,0,23,13,2,1,0,1,0,0,D
+Chateauroux,Guingamp,18,20,5,10,6,3,13,12,1,1,0,0,0,2,A
+Grenoble,Rodez,7,13,3,3,6,8,17,16,3,5,0,1,1,0,H
+Le Havre,Chambly,7,13,1,3,3,4,16,11,3,3,0,0,1,1,D
+Orleans,Sochaux,12,14,5,1,5,6,15,14,1,2,0,0,0,0,H
+Valenciennes,Lorient,8,20,4,5,2,6,14,18,3,3,1,1,1,0,H
+Lens,Niort,11,6,5,1,5,5,12,14,1,3,1,0,0,0,H
+Paris FC,Le Mans,9,10,3,4,4,2,15,17,3,3,1,0,0,0,A
+Troyes,Ajaccio,14,8,8,3,8,7,8,22,2,5,0,0,1,0,H
+Ajaccio,Grenoble,12,8,6,7,3,3,12,15,2,1,0,0,1,1,H
+Chambly,Orleans,11,12,2,4,4,5,16,23,3,3,0,0,1,0,H
+Clermont,Troyes,13,15,6,5,5,7,12,23,4,4,0,0,2,1,H
+Le Mans,Auxerre,12,15,4,7,5,2,15,13,3,2,1,0,0,1,A
+Nancy,Valenciennes,6,6,2,1,5,4,10,17,1,3,0,0,1,0,H
+Niort,Le Havre,8,6,1,1,5,5,16,13,3,1,0,0,0,1,A
+Rodez,Chateauroux,5,11,3,5,5,1,12,11,1,5,1,0,0,1,A
+Sochaux,Paris FC,9,11,5,5,3,3,13,16,1,4,0,0,0,1,D
+Lorient,Caen,21,5,7,4,8,5,11,15,2,1,0,1,1,1,H
+Guingamp,Lens,14,7,4,2,7,2,18,13,3,2,0,0,0,0,D
+Auxerre,Sochaux,12,7,4,4,9,2,13,16,3,2,1,0,1,1,H
+Caen,Ajaccio,7,16,4,5,3,9,14,9,4,2,1,0,0,0,A
+Chateauroux,Niort,17,7,6,2,11,3,20,18,2,3,0,1,1,1,D
+Grenoble,Chambly,9,9,2,1,5,5,14,11,2,2,0,0,0,0,D
+Lorient,Nancy,10,4,5,1,10,3,6,16,0,3,0,0,1,0,H
+Orleans,Guingamp,13,9,2,3,6,9,14,10,1,1,0,0,2,0,H
+Paris FC,Rodez,16,8,2,1,10,6,12,17,4,4,1,0,0,0,D
+Valenciennes,Le Mans,16,12,4,3,4,3,17,15,2,2,0,0,1,0,H
+Lens,Clermont,13,8,5,5,4,3,16,15,2,2,0,0,0,0,D
+Le Havre,Troyes,5,13,3,3,2,7,10,13,2,4,0,0,1,0,H
+Ajaccio,Chateauroux,16,8,3,2,8,2,13,16,1,2,0,0,0,1,A
+Chambly,Caen,8,11,1,4,3,2,16,20,1,4,0,0,0,0,A
+Clermont,Orleans,16,12,7,6,4,1,12,18,2,4,0,2,0,0,H
+Guingamp,Auxerre,12,9,4,2,6,7,13,8,1,2,0,0,0,0,H
+Le Havre,Lens,12,9,3,2,7,7,11,15,2,1,0,0,0,0,D
+Le Mans,Nancy,7,15,3,4,3,5,19,13,2,2,0,0,0,0,D
+Niort,Paris FC,13,17,8,6,2,7,12,15,3,2,0,0,3,2,D
+Rodez,Valenciennes,18,7,5,2,3,5,10,8,1,0,0,0,1,0,D
+Troyes,Grenoble,12,10,2,4,8,4,10,10,5,1,0,0,0,1,A
+Sochaux,Lorient,20,10,2,6,10,5,10,14,4,1,0,0,0,2,A
+Grenoble,Le Havre,8,11,3,4,3,4,16,7,0,1,0,0,0,0,D
+Auxerre,Clermont,11,11,3,1,7,4,12,8,2,3,0,0,0,0,D
+Caen,Niort,10,11,4,4,6,4,15,16,2,3,0,1,0,1,H
+Chateauroux,Chambly,10,10,3,5,8,4,12,12,2,2,1,0,0,1,A
+Lens,Troyes,14,9,2,2,8,1,22,12,2,3,0,1,0,0,H
+Lorient,Le Mans,18,5,11,2,8,0,12,16,1,3,0,0,1,1,H
+Nancy,Sochaux,8,13,2,3,2,6,15,14,4,2,0,0,1,0,D
+Orleans,Rodez,16,8,7,3,5,8,13,16,1,4,0,0,0,0,A
+Paris FC,Ajaccio,9,8,3,5,3,0,16,13,2,2,0,0,2,2,A
+Valenciennes,Guingamp,7,14,0,3,4,8,13,10,3,1,1,0,0,0,D
+Ajaccio,Auxerre,14,10,5,5,6,2,9,10,1,1,0,0,2,3,A
+Chambly,Paris FC,8,12,4,6,0,6,17,19,3,2,0,0,0,1,A
+Clermont,Valenciennes,17,13,3,4,7,6,19,16,2,3,0,0,2,1,H
+Le Havre,Caen,10,9,4,2,5,3,15,14,3,2,1,1,1,0,D
+Niort,Orleans,11,12,3,1,2,3,8,15,1,2,0,0,0,0,H
+Rodez,Nancy,15,6,2,2,6,1,20,14,2,3,0,0,0,1,D
+Sochaux,Le Mans,9,8,4,1,5,2,8,12,1,3,1,0,1,0,H
+Troyes,Chateauroux,11,13,4,2,4,3,10,10,3,1,0,0,2,0,H
+Guingamp,Lorient,18,16,7,8,6,6,9,14,2,0,0,0,1,1,H
+Lens,Grenoble,5,8,2,2,6,2,11,19,2,2,0,0,0,0,D
+Auxerre,Chambly,5,8,3,1,3,3,9,15,2,3,0,0,0,0,D
+Caen,Troyes,12,14,3,4,5,3,6,8,0,1,0,0,0,0,A
+Grenoble,Niort,13,10,6,4,4,5,9,14,1,2,0,0,1,0,H
+Le Mans,Rodez,16,6,2,0,1,4,9,12,1,2,0,0,0,0,D
+Orleans,Ajaccio,7,9,1,4,2,3,10,17,1,1,0,0,0,1,A
+Paris FC,Le Havre,4,11,2,4,2,4,16,15,0,3,0,0,1,0,H
+Valenciennes,Sochaux,12,10,7,5,7,4,16,10,3,1,0,0,0,2,H
+Lorient,Clermont,11,11,4,2,12,3,17,12,5,5,1,0,0,0,A
+Nancy,Guingamp,10,13,1,6,7,4,18,14,3,2,0,0,0,0,A
+Chateauroux,Lens,6,21,4,8,3,6,18,8,4,1,0,0,1,0,H
+Ajaccio,Le Mans,11,5,4,1,3,1,17,14,1,2,0,0,1,0,H
+Chambly,Nancy,18,9,8,1,6,3,15,18,2,1,0,0,0,1,H
+Clermont,Paris FC,14,12,4,2,5,3,9,14,2,1,0,0,0,0,A
+Grenoble,Chateauroux,17,7,5,3,11,1,6,12,0,2,0,0,0,0,A
+Guingamp,Sochaux,11,6,5,2,5,2,11,9,3,0,0,0,0,1,D
+Le Havre,Orleans,13,12,7,5,9,5,7,16,0,3,0,0,1,1,A
+Niort,Valenciennes,16,6,5,2,2,6,17,13,1,2,0,0,0,0,H
+Rodez,Lorient,10,10,1,2,5,4,10,14,1,2,0,0,0,1,A
+Lens,Caen,10,8,1,7,2,2,19,20,5,2,1,0,1,2,A
+Troyes,Auxerre,18,18,7,6,5,8,9,14,2,2,0,1,2,1,H
+Auxerre,Niort,17,7,6,1,1,4,15,14,1,2,0,0,1,0,H
+Caen,Grenoble,13,18,5,3,2,9,20,10,1,2,0,0,2,0,H
+Chateauroux,Le Havre,11,11,3,7,9,1,17,7,1,1,0,0,0,2,A
+Le Mans,Guingamp,20,16,5,4,6,5,13,11,2,0,0,0,1,0,H
+Nancy,Clermont,14,11,2,4,4,6,14,10,4,2,1,1,0,0,A
+Orleans,Troyes,17,9,4,5,6,4,10,19,1,2,0,0,0,1,A
+Sochaux,Rodez,12,6,4,3,2,1,12,20,2,2,0,0,0,0,D
+Valenciennes,Ajaccio,14,17,4,6,10,5,15,11,2,1,0,0,0,0,D
+Lorient,Chambly,7,6,4,2,1,0,10,12,1,1,0,0,1,2,A
+Paris FC,Lens,2,11,0,5,1,2,19,17,2,3,0,0,0,1,A
+Chambly,Le Mans,7,12,5,6,2,7,11,23,2,4,1,1,0,1,D
+Chateauroux,Caen,16,11,7,6,3,6,11,14,2,1,0,0,1,1,H
+Clermont,Sochaux,6,14,3,3,4,6,10,14,1,1,0,0,1,0,H
+Grenoble,Valenciennes,18,9,5,8,11,1,17,15,2,1,0,0,0,2,A
+Le Havre,Auxerre,10,9,1,1,7,4,11,12,1,1,0,1,0,0,H
+Niort,Nancy,11,4,4,1,5,5,16,19,2,3,0,0,1,0,D
+Rodez,Guingamp,7,24,5,8,6,10,10,11,4,1,0,0,1,0,H
+Troyes,Paris FC,11,6,5,3,7,3,11,16,2,3,0,1,1,1,D
+Ajaccio,Lorient,8,6,5,1,4,4,14,7,2,0,0,0,0,0,H
+Lens,Orleans,7,5,3,2,6,1,16,14,1,2,0,0,0,0,H

@@ -1,0 +1,381 @@
+HomeTeam,AwayTeam,HS,AS,HST,AST,HC,AC,HF,AF,HY,AY,HR,AR,HTHG,HTAG,FTR
+Pisa,Benevento,8,13,0,4,7,1,15,18,4,1,0,0,0,0,D
+Crotone,Cosenza,15,7,3,5,6,4,13,19,1,3,0,1,0,0,D
+Salernitana,Pescara,20,10,11,2,4,5,11,12,2,2,0,0,1,0,H
+Ascoli,Trapani,9,12,6,3,4,4,14,20,0,5,1,1,1,0,H
+Cittadella,Spezia,10,9,3,3,5,3,14,21,2,1,0,0,0,0,A
+Venezia,Cremonese,12,11,1,5,6,5,7,19,2,3,0,0,0,0,A
+Virtus Entella,Livorno,6,5,3,2,4,4,18,18,2,3,0,0,1,0,H
+Empoli,Juve Stabia,15,4,4,3,1,0,14,11,1,1,0,0,1,0,H
+Perugia,Chievo,16,10,4,6,4,8,16,10,3,2,0,0,1,1,H
+Pordenone,Frosinone,18,16,5,5,3,4,14,24,1,3,0,0,1,0,H
+Chievo,Empoli,14,13,5,6,4,3,12,15,0,0,0,0,1,1,D
+Benevento,Cittadella,17,9,7,7,7,4,16,15,1,1,0,0,1,0,H
+Spezia,Crotone,8,6,6,3,6,2,8,17,0,3,0,0,1,2,A
+Cosenza,Salernitana,8,6,3,3,3,1,20,16,3,4,0,0,0,0,A
+Cremonese,Virtus Entella,15,11,5,4,6,6,10,8,1,2,0,0,0,1,A
+Livorno,Perugia,12,6,3,1,12,2,17,13,1,4,0,1,0,0,A
+Trapani,Venezia,11,13,4,4,6,7,19,16,2,2,0,0,0,1,A
+Juve Stabia,Pisa,14,11,1,3,8,2,23,14,4,2,0,1,0,1,A
+Pescara,Pordenone,19,11,4,2,5,3,17,18,3,2,0,0,1,2,H
+Frosinone,Ascoli,20,11,8,5,7,2,19,28,5,4,1,0,0,1,H
+Pordenone,Spezia,12,11,5,1,5,4,18,24,1,3,0,0,0,0,H
+Ascoli,Livorno,11,9,4,4,4,3,16,19,4,3,0,0,1,0,H
+Cittadella,Trapani,13,8,6,4,7,5,24,16,3,3,0,0,0,0,H
+Perugia,Juve Stabia,11,12,4,5,6,7,13,24,0,4,0,1,0,0,D
+Virtus Entella,Frosinone,8,17,3,8,4,5,15,13,3,3,0,0,0,0,H
+Venezia,Chievo,5,8,2,4,2,3,13,16,2,3,1,0,0,1,A
+Cosenza,Pescara,13,6,5,1,7,1,15,14,1,2,0,0,0,1,A
+Crotone,Empoli,19,10,6,1,14,2,12,17,1,1,0,0,0,0,D
+Pisa,Cremonese,15,21,8,5,4,6,9,15,2,3,0,0,1,0,H
+Salernitana,Benevento,10,14,0,4,4,7,18,14,3,0,0,0,0,0,A
+Frosinone,Venezia,10,10,4,4,4,5,17,24,2,4,0,0,0,0,D
+Benevento,Cosenza,14,10,3,5,6,3,14,18,1,5,0,0,0,0,H
+Cremonese,Crotone,15,18,7,6,6,3,15,17,2,2,0,0,2,1,H
+Empoli,Cittadella,10,16,3,2,3,4,17,21,1,4,0,0,1,0,H
+Juve Stabia,Ascoli,20,19,9,9,4,3,18,12,4,3,1,0,0,0,A
+Livorno,Pordenone,10,11,4,4,4,6,16,24,1,3,0,0,1,0,H
+Pescara,Virtus Entella,11,5,5,3,3,1,10,12,2,3,1,0,0,1,D
+Spezia,Perugia,13,11,5,5,4,7,19,14,1,4,0,0,2,1,D
+Chievo,Pisa,18,14,8,4,4,1,12,10,1,2,0,0,0,1,D
+Trapani,Salernitana,12,4,5,1,4,2,20,18,5,2,0,0,0,0,A
+Ascoli,Spezia,8,15,4,1,2,7,11,16,3,4,0,1,2,0,H
+Cittadella,Pescara,15,11,6,2,3,4,14,9,5,2,0,0,1,0,H
+Cosenza,Livorno,9,12,5,4,6,2,19,20,2,1,0,0,0,0,D
+Crotone,Juve Stabia,26,5,9,0,15,0,13,12,3,3,0,0,0,0,H
+Perugia,Frosinone,19,5,7,2,7,5,20,14,1,3,0,0,2,1,H
+Pisa,Empoli,9,15,6,5,7,3,12,15,2,4,0,0,1,1,A
+Pordenone,Benevento,14,12,4,6,5,3,21,24,4,2,0,0,1,1,D
+Virtus Entella,Venezia,15,11,1,8,2,5,15,20,2,2,0,1,0,1,A
+Trapani,Cremonese,16,3,4,3,9,2,9,14,0,3,0,0,0,0,D
+Salernitana,Chievo,3,4,3,4,6,2,20,15,6,5,1,1,1,1,D
+Pescara,Crotone,13,17,3,9,6,10,12,10,2,1,0,0,0,1,A
+Frosinone,Cosenza,7,12,0,4,9,3,13,12,4,3,1,0,1,0,D
+Juve Stabia,Cittadella,7,10,2,2,6,1,19,22,4,5,1,0,0,0,A
+Venezia,Pisa,11,11,3,3,8,4,12,16,4,4,0,1,1,1,D
+Empoli,Perugia,15,18,7,3,1,4,10,19,0,2,0,0,2,0,H
+Benevento,Virtus Entella,21,7,5,3,3,5,10,19,4,3,0,0,1,0,D
+Chievo,Pordenone,20,6,8,2,9,4,14,17,3,5,0,2,0,1,D
+Spezia,Trapani,11,8,3,8,8,2,13,16,0,1,0,0,1,3,A
+Livorno,Salernitana,20,8,7,3,8,3,18,14,2,3,0,0,1,1,A
+Cremonese,Ascoli,17,4,8,1,3,4,17,13,2,2,0,0,1,0,H
+Perugia,Pisa,3,3,3,3,5,7,19,9,2,0,0,0,1,0,H
+Cosenza,Venezia,15,9,3,2,3,5,16,12,1,3,0,0,1,0,D
+Crotone,Virtus Entella,18,8,7,4,7,3,8,6,2,2,0,0,2,0,H
+Livorno,Chievo,13,15,5,5,5,2,18,12,2,5,1,1,3,1,A
+Pordenone,Empoli,21,9,5,2,6,2,13,9,3,0,0,1,2,0,H
+Spezia,Benevento,8,5,2,2,4,7,9,7,3,2,0,1,0,0,A
+Trapani,Juve Stabia,10,12,3,7,3,4,24,9,2,3,0,0,1,0,A
+Cremonese,Cittadella,7,22,1,5,3,10,9,15,4,3,1,0,0,1,A
+Salernitana,Frosinone,7,16,2,6,3,7,16,13,3,3,0,1,1,0,D
+Ascoli,Pescara,10,13,2,2,4,4,18,18,1,3,0,0,0,0,A
+Cittadella,Cosenza,9,14,3,5,5,5,24,16,4,2,0,0,1,0,A
+Juve Stabia,Pordenone,12,17,8,6,5,6,17,18,2,3,0,0,4,1,H
+Pescara,Spezia,8,10,2,2,4,4,9,21,4,3,0,0,1,0,A
+Venezia,Salernitana,11,4,3,1,3,3,23,24,5,4,0,0,1,0,H
+Virtus Entella,Trapani,18,11,7,1,7,6,14,16,2,4,0,0,1,0,D
+Benevento,Perugia,17,14,7,4,3,7,14,21,5,2,1,1,1,0,H
+Chievo,Ascoli,24,7,8,4,6,3,8,16,0,3,0,1,1,0,H
+Pisa,Crotone,8,20,3,5,2,6,14,16,7,4,0,1,1,0,D
+Empoli,Cremonese,17,20,4,8,4,4,10,10,0,3,0,1,1,0,D
+Frosinone,Livorno,25,9,6,4,10,3,15,17,3,3,0,0,0,0,H
+Ascoli,Virtus Entella,10,15,4,3,3,5,12,12,4,8,1,1,2,1,H
+Cosenza,Chievo,13,5,2,1,7,4,19,16,2,3,0,0,1,1,D
+Crotone,Venezia,21,9,6,3,7,5,14,18,1,4,0,0,1,1,H
+Pescara,Benevento,13,10,5,2,6,9,14,14,3,2,0,0,0,0,H
+Pordenone,Cittadella,9,11,4,4,4,6,16,18,3,3,0,0,0,0,D
+Salernitana,Perugia,8,10,3,4,2,6,21,21,1,1,0,0,0,0,D
+Spezia,Juve Stabia,17,4,5,1,5,5,14,16,3,4,0,1,1,0,H
+Trapani,Empoli,21,20,9,9,3,5,15,17,2,1,0,0,1,1,D
+Livorno,Pisa,10,21,2,2,3,4,22,16,5,2,1,1,1,0,H
+Cremonese,Frosinone,16,11,6,4,9,0,14,10,0,1,0,0,0,0,D
+Chievo,Crotone,13,13,1,6,5,2,26,18,3,3,0,1,0,1,H
+Cittadella,Livorno,11,14,4,7,5,7,21,14,4,3,1,0,0,0,H
+Empoli,Spezia,16,13,4,4,7,3,14,18,2,5,0,0,0,0,D
+Juve Stabia,Pescara,11,12,4,6,4,4,23,25,7,4,1,1,1,1,H
+Perugia,Ascoli,12,14,2,7,4,4,17,17,4,0,0,0,0,1,D
+Pisa,Salernitana,5,10,3,6,0,2,21,26,3,3,0,0,2,0,H
+Venezia,Pordenone,17,14,3,5,2,3,9,16,2,3,0,0,0,0,A
+Virtus Entella,Cosenza,18,11,8,3,4,1,17,11,2,3,0,0,0,0,H
+Benevento,Cremonese,17,12,10,3,4,6,19,16,1,1,0,0,0,0,H
+Frosinone,Trapani,18,20,8,6,4,6,9,18,2,4,0,0,1,0,H
+Spezia,Chievo,5,20,0,7,5,6,19,20,3,1,0,0,0,0,D
+Ascoli,Venezia,7,13,3,2,3,7,19,18,2,4,0,0,0,0,D
+Crotone,Perugia,14,5,6,4,13,1,11,14,0,0,0,0,0,1,A
+Livorno,Juve Stabia,25,11,8,1,11,3,15,20,2,3,0,0,0,0,H
+Pescara,Pisa,13,8,5,3,4,6,17,13,1,2,0,0,1,0,H
+Salernitana,Virtus Entella,20,5,8,4,7,4,11,16,2,3,0,0,0,0,H
+Cittadella,Frosinone,9,9,1,3,6,5,22,13,3,1,0,0,0,0,D
+Pordenone,Trapani,19,14,5,3,8,7,12,8,0,4,0,1,1,0,H
+Benevento,Empoli,11,11,5,4,3,6,11,13,1,0,0,0,2,0,H
+Cosenza,Cremonese,13,11,4,3,5,4,18,13,3,2,0,0,2,0,H
+Crotone,Ascoli,24,7,7,5,8,7,16,17,1,3,0,0,2,1,H
+Juve Stabia,Benevento,8,10,3,4,7,6,13,21,3,4,0,1,1,0,D
+Perugia,Cittadella,15,19,5,10,8,9,16,12,2,3,0,0,0,2,A
+Pisa,Spezia,11,13,5,7,5,6,20,22,5,1,1,0,1,0,H
+Venezia,Livorno,9,11,4,4,6,7,18,21,6,3,1,0,1,0,H
+Virtus Entella,Pordenone,8,11,2,4,11,7,10,17,1,4,0,1,1,1,D
+Empoli,Pescara,21,9,2,4,3,4,25,14,2,0,0,0,1,2,A
+Cremonese,Salernitana,20,12,10,5,6,6,23,14,4,2,0,0,0,0,H
+Trapani,Cosenza,10,11,5,5,2,9,7,12,6,3,1,1,2,2,D
+Frosinone,Chievo,11,8,4,3,3,7,13,23,0,3,0,0,1,0,H
+Pescara,Cremonese,14,11,6,3,3,1,10,21,3,3,0,0,0,0,D
+Benevento,Crotone,11,17,3,4,3,9,18,15,3,2,0,0,1,0,H
+Juve Stabia,Salernitana,8,10,4,5,2,7,16,28,2,5,0,1,1,0,H
+Livorno,Trapani,17,10,6,6,7,4,16,18,2,3,0,0,0,2,A
+Pordenone,Perugia,22,12,10,2,8,5,16,10,2,2,0,0,0,0,H
+Empoli,Venezia,8,16,2,4,2,8,13,9,2,1,0,0,1,0,D
+Ascoli,Cosenza,14,6,6,1,5,3,11,13,5,3,0,0,1,2,H
+Cittadella,Pisa,19,10,4,4,13,2,23,16,2,3,0,0,0,1,D
+Spezia,Frosinone,15,13,7,1,4,9,14,15,2,4,0,0,1,0,H
+Chievo,Virtus Entella,9,12,4,2,5,4,19,20,1,1,0,0,2,0,H
+Cosenza,Spezia,14,14,6,2,10,4,11,11,3,4,0,1,1,0,D
+Cremonese,Livorno,12,11,2,3,5,4,16,14,3,3,0,0,0,0,D
+Crotone,Cittadella,17,9,5,4,6,6,12,18,3,3,1,0,0,0,D
+Frosinone,Empoli,14,7,9,2,2,7,14,13,3,1,0,0,2,0,H
+Venezia,Benevento,9,20,2,7,1,4,13,16,1,3,0,0,0,1,A
+Salernitana,Ascoli,16,16,6,6,4,9,18,16,0,3,0,0,1,0,D
+Trapani,Chievo,15,10,8,2,8,1,11,16,1,1,0,0,1,0,H
+Virtus Entella,Juve Stabia,22,2,9,1,9,3,20,12,3,2,0,0,1,0,H
+Perugia,Pescara,11,13,4,2,2,6,17,20,2,2,0,0,2,1,H
+Pisa,Pordenone,9,9,3,3,2,9,21,19,3,4,1,0,2,0,H
+Benevento,Trapani,21,7,10,3,11,3,12,10,1,2,0,0,2,0,H
+Cittadella,Salernitana,20,10,8,7,7,4,12,20,2,4,0,0,3,1,H
+Empoli,Ascoli,19,11,6,6,5,6,13,14,2,2,0,0,0,1,H
+Pescara,Venezia,7,17,3,2,1,10,15,13,1,1,0,0,1,0,D
+Spezia,Livorno,16,21,5,6,2,6,13,14,3,2,0,0,1,0,H
+Chievo,Cremonese,16,11,7,6,7,3,11,12,2,5,0,1,0,0,H
+Juve Stabia,Frosinone,7,18,3,6,7,4,16,23,4,3,0,0,0,1,A
+Pisa,Virtus Entella,19,14,5,5,7,3,8,28,2,7,0,1,0,1,A
+Pordenone,Crotone,9,16,1,3,2,5,16,8,2,1,0,0,1,0,H
+Perugia,Cosenza,15,7,4,5,8,3,16,12,2,3,1,0,1,0,D
+Chievo,Juve Stabia,8,9,3,5,6,1,16,22,3,5,0,0,2,0,A
+Ascoli,Cittadella,9,15,2,4,6,6,12,14,2,3,0,0,0,0,H
+Frosinone,Pescara,13,7,3,1,6,4,15,14,0,1,0,0,0,0,H
+Venezia,Spezia,14,5,7,2,7,1,6,19,1,5,0,1,0,0,D
+Virtus Entella,Empoli,9,13,7,3,6,3,17,10,1,1,0,1,2,0,H
+Livorno,Benevento,6,12,1,6,5,9,18,8,2,4,0,0,0,1,A
+Cosenza,Pordenone,17,15,7,9,10,15,8,15,1,1,0,1,0,2,A
+Cremonese,Perugia,19,17,9,6,4,4,19,12,4,1,0,0,1,0,H
+Salernitana,Crotone,16,12,6,3,7,7,26,15,3,3,0,1,0,1,H
+Trapani,Pisa,26,13,9,6,9,3,14,18,3,5,0,0,1,2,A
+Cittadella,Chievo,19,5,7,1,8,2,22,15,2,3,0,0,1,0,D
+Crotone,Livorno,16,7,7,3,7,3,18,14,5,3,0,0,2,1,H
+Empoli,Salernitana,10,14,3,6,5,5,18,23,4,4,0,0,1,1,D
+Juve Stabia,Venezia,10,14,3,5,3,8,19,11,3,0,0,0,1,0,H
+Perugia,Virtus Entella,17,18,8,3,7,9,10,14,4,2,0,1,0,0,H
+Benevento,Frosinone,14,10,2,0,4,3,10,20,0,6,0,0,1,0,H
+Pescara,Trapani,13,3,4,1,6,3,20,18,2,2,0,0,1,1,D
+Pisa,Cosenza,10,12,3,9,1,8,12,18,5,3,1,0,0,3,A
+Pordenone,Ascoli,12,8,7,2,3,5,19,11,3,3,0,1,2,0,H
+Cosenza,Empoli,12,13,5,5,4,6,17,12,3,4,0,1,1,0,H
+Chievo,Benevento,11,12,6,3,2,4,17,20,3,4,0,0,1,2,A
+Cremonese,Juve Stabia,14,9,5,4,5,2,14,8,1,2,0,0,1,1,D
+Frosinone,Crotone,13,10,6,6,4,4,14,14,2,1,0,0,1,1,A
+Livorno,Pescara,11,12,5,6,7,3,14,18,2,5,0,0,0,2,A
+Salernitana,Pordenone,12,7,5,3,3,5,12,21,2,3,0,0,1,0,H
+Trapani,Perugia,11,12,4,4,5,2,11,14,4,1,1,1,1,0,D
+Venezia,Cittadella,12,15,3,5,5,8,18,21,4,6,1,0,0,2,A
+Ascoli,Pisa,14,6,5,1,3,4,13,14,3,3,0,0,0,0,H
+Virtus Entella,Spezia,10,7,3,1,5,3,19,14,2,2,0,1,0,0,D
+Pescara,Chievo,16,8,2,3,4,1,8,18,2,4,0,0,0,0,D
+Cittadella,Virtus Entella,14,10,4,4,9,4,16,16,3,4,0,0,0,1,A
+Crotone,Trapani,24,4,7,1,5,0,18,8,2,2,0,0,0,0,H
+Juve Stabia,Cosenza,9,8,3,2,6,6,12,20,2,5,0,0,0,0,H
+Perugia,Venezia,10,9,2,3,4,4,22,25,3,5,2,0,0,1,A
+Pisa,Frosinone,9,10,2,5,3,9,17,15,3,1,0,0,0,0,D
+Pordenone,Cremonese,10,15,1,7,5,3,20,18,2,3,0,0,1,0,H
+Spezia,Salernitana,11,9,5,4,4,1,18,21,3,4,0,0,1,0,H
+Benevento,Ascoli,24,12,11,2,2,4,12,14,2,5,0,1,1,0,H
+Empoli,Livorno,15,11,5,3,6,3,19,24,4,3,0,0,1,1,D
+Frosinone,Pordenone,9,15,5,6,2,6,15,24,5,1,0,0,1,1,D
+Cremonese,Venezia,8,19,3,5,5,7,13,9,3,2,1,0,0,0,D
+Juve Stabia,Empoli,13,11,3,5,6,4,11,19,1,3,0,0,1,0,H
+Livorno,Virtus Entella,17,17,8,7,3,2,9,12,3,3,1,1,3,1,D
+Trapani,Ascoli,16,11,8,3,5,5,9,6,4,3,1,1,1,1,H
+Chievo,Perugia,10,9,5,4,5,4,20,20,4,3,0,1,0,0,H
+Pescara,Salernitana,9,13,3,10,4,5,14,19,2,4,0,0,0,0,A
+Spezia,Cittadella,8,7,3,2,0,1,15,14,1,1,0,0,1,1,D
+Benevento,Pisa,18,11,8,5,8,2,9,17,3,4,0,1,1,1,D
+Cosenza,Crotone,12,11,4,4,9,2,26,19,1,3,0,0,0,1,A
+Empoli,Chievo,12,15,5,5,3,3,23,21,5,5,0,0,1,0,D
+Cittadella,Benevento,12,13,1,6,3,6,24,7,6,3,1,0,0,0,A
+Pisa,Juve Stabia,20,7,3,3,8,6,17,12,3,1,1,1,0,0,D
+Pordenone,Pescara,14,19,3,5,4,3,17,11,3,2,0,0,0,0,A
+Virtus Entella,Cremonese,15,16,2,5,4,7,14,15,2,4,0,0,1,1,D
+Salernitana,Cosenza,13,9,5,2,3,6,21,18,2,2,0,0,2,1,H
+Crotone,Spezia,6,11,2,3,6,8,18,19,4,4,1,0,0,1,A
+Venezia,Trapani,4,16,1,7,2,5,15,16,2,3,0,0,1,0,D
+Ascoli,Frosinone,13,8,2,4,5,2,20,18,3,2,0,0,0,0,A
+Perugia,Livorno,8,4,2,2,6,3,16,24,2,3,0,0,1,0,H
+Cremonese,Pisa,14,17,4,8,5,6,16,15,4,3,1,0,2,1,A
+Frosinone,Virtus Entella,10,6,1,0,7,4,11,24,2,4,0,0,0,0,H
+Livorno,Ascoli,17,18,8,9,6,5,19,19,2,2,0,0,0,1,A
+Spezia,Pordenone,12,11,3,1,3,5,14,18,2,3,1,0,0,0,H
+Trapani,Cittadella,8,11,1,5,5,4,20,17,3,3,0,0,0,1,A
+Empoli,Crotone,17,10,7,5,3,10,18,13,3,3,0,0,2,1,H
+Chievo,Venezia,7,8,2,7,3,4,30,14,4,2,0,0,0,1,A
+Juve Stabia,Perugia,13,20,2,7,8,6,14,24,2,5,0,0,1,1,A
+Benevento,Salernitana,16,8,2,2,5,0,19,21,3,4,1,0,0,0,D
+Pescara,Cosenza,8,12,3,4,8,4,15,18,5,4,1,2,0,0,H
+Ascoli,Juve Stabia,14,17,5,6,7,5,24,12,2,3,0,0,1,0,D
+Cittadella,Empoli,14,11,4,5,8,3,19,18,2,1,0,0,1,1,A
+Crotone,Cremonese,14,9,4,4,6,2,7,14,1,2,0,0,0,0,H
+Pordenone,Livorno,23,11,12,4,4,5,14,17,4,5,0,0,1,0,D
+Venezia,Frosinone,15,12,6,2,2,3,12,18,2,3,0,0,0,0,A
+Perugia,Spezia,9,12,3,5,5,5,16,16,3,2,0,0,0,1,A
+Pisa,Chievo,14,11,6,4,10,4,27,22,5,3,1,0,0,1,D
+Virtus Entella,Pescara,10,7,3,2,5,4,16,16,3,3,0,0,1,0,H
+Cosenza,Benevento,14,8,8,5,2,5,27,12,5,2,0,1,0,1,A
+Salernitana,Trapani,8,11,5,3,0,3,16,18,3,3,0,0,1,0,H
+Spezia,Cremonese,20,10,10,3,5,2,11,20,2,4,0,0,0,1,H
+Pescara,Cittadella,9,11,5,7,8,6,6,25,2,3,0,0,1,1,A
+Benevento,Pordenone,16,15,5,5,7,2,12,15,1,2,0,0,1,0,H
+Juve Stabia,Crotone,20,19,7,8,8,11,18,18,4,3,0,0,2,2,H
+Livorno,Cosenza,7,15,3,5,2,6,24,15,2,2,1,0,0,3,A
+Venezia,Virtus Entella,11,15,4,6,7,3,14,19,3,2,0,0,1,1,D
+Spezia,Ascoli,20,9,7,4,8,0,11,16,5,4,0,1,0,1,H
+Cremonese,Trapani,17,12,7,2,4,3,14,17,2,2,0,1,2,0,H
+Frosinone,Perugia,6,11,5,1,8,2,10,17,3,0,0,0,0,0,H
+Empoli,Pisa,15,10,6,4,6,2,14,17,2,4,0,0,0,1,H
+Chievo,Salernitana,9,16,2,3,0,3,13,16,4,2,0,0,1,0,H
+Cosenza,Frosinone,15,13,4,3,5,2,17,13,3,3,0,0,0,2,A
+Cittadella,Juve Stabia,26,4,11,2,11,3,21,6,4,2,0,0,1,0,H
+Trapani,Spezia,9,13,4,4,3,0,18,16,4,1,1,0,1,1,D
+Virtus Entella,Benevento,5,6,3,3,3,2,16,8,1,0,0,0,0,3,A
+Pisa,Venezia,17,9,5,5,7,3,13,20,0,3,0,0,1,1,A
+Pordenone,Chievo,14,5,3,2,5,5,19,11,2,4,0,0,0,1,A
+Salernitana,Livorno,15,9,3,1,1,2,18,14,3,2,0,0,1,0,H
+Crotone,Pescara,16,16,9,5,4,5,18,11,3,2,0,1,3,0,H
+Perugia,Empoli,15,8,1,3,8,4,23,17,2,4,0,0,0,0,A
+Virtus Entella,Crotone,16,8,4,3,2,5,24,11,3,1,1,0,0,1,A
+Benevento,Spezia,13,8,7,5,7,2,14,21,4,4,0,1,0,1,H
+Cittadella,Cremonese,10,10,3,1,3,10,15,7,3,2,0,0,0,0,D
+Empoli,Pordenone,20,14,6,4,12,4,15,9,2,2,0,0,0,1,A
+Juve Stabia,Trapani,14,14,5,4,7,5,9,20,2,5,0,0,0,1,D
+Pisa,Perugia,17,10,8,0,5,3,18,20,2,1,1,0,0,0,H
+Venezia,Cosenza,14,12,5,4,4,5,19,22,2,1,0,0,1,0,D
+Chievo,Livorno,14,9,3,3,7,3,14,21,1,4,0,0,0,0,A
+Frosinone,Salernitana,10,5,2,0,9,2,13,27,3,3,0,0,0,0,H
+Pescara,Ascoli,24,12,7,2,4,2,14,23,1,6,0,0,1,1,H
+Cosenza,Cittadella,15,15,5,5,5,5,13,13,2,2,0,0,0,0,A
+Cremonese,Empoli,16,16,8,8,9,9,9,9,1,1,0,0,2,2,A
+Crotone,Pisa,5,5,2,2,1,1,21,21,6,6,1,1,0,0,H
+Livorno,Frosinone,17,17,7,7,5,5,12,12,2,2,0,0,1,1,D
+Perugia,Benevento,19,19,6,6,5,5,14,14,0,0,0,0,0,1,A
+Pordenone,Juve Stabia,12,12,2,2,7,7,14,14,5,5,0,0,1,0,H
+Salernitana,Venezia,21,21,4,4,7,7,9,9,3,3,1,1,1,0,H
+Trapani,Virtus Entella,11,11,3,3,1,1,16,16,2,2,0,0,0,1,H
+Ascoli,Chievo,12,14,5,4,6,2,14,10,2,3,0,0,0,1,D
+Spezia,Pescara,14,6,7,0,9,0,11,13,1,4,0,0,0,0,H
+Cittadella,Pordenone,15,8,3,3,6,3,17,17,1,2,1,0,0,1,A
+Empoli,Trapani,10,14,4,5,6,8,11,12,2,2,0,0,0,1,D
+Frosinone,Cremonese,10,11,4,6,8,5,8,15,2,2,1,0,0,1,A
+Perugia,Salernitana,13,4,5,3,7,4,20,23,2,4,0,0,1,0,H
+Venezia,Crotone,11,10,3,5,4,5,11,23,1,3,0,0,0,2,A
+Pisa,Livorno,16,15,3,3,0,1,14,19,1,3,0,0,0,0,H
+Juve Stabia,Spezia,10,16,4,4,4,8,11,19,3,3,0,0,1,0,H
+Virtus Entella,Ascoli,20,11,8,5,7,3,14,14,2,2,0,0,3,0,H
+Benevento,Pescara,16,12,9,8,3,6,7,7,2,0,0,0,3,0,H
+Chievo,Cosenza,14,12,5,1,5,0,18,19,3,2,0,0,1,0,H
+Ascoli,Cremonese,12,14,6,7,5,1,16,16,3,3,0,0,1,2,A
+Spezia,Empoli,10,10,4,4,2,9,12,15,1,1,0,0,0,0,H
+Cosenza,Virtus Entella,16,19,11,10,7,8,25,13,3,2,1,0,2,0,H
+Crotone,Chievo,7,16,3,2,3,3,14,24,3,2,0,0,1,0,D
+Livorno,Cittadella,8,17,3,5,5,6,8,16,0,2,0,0,0,0,A
+Pescara,Juve Stabia,17,7,5,3,9,4,12,10,2,2,0,0,0,0,H
+Salernitana,Pisa,9,15,1,3,4,4,23,13,5,2,0,0,1,0,D
+Trapani,Frosinone,6,5,0,2,4,5,24,11,3,2,0,0,0,0,D
+Pordenone,Venezia,7,16,2,3,4,7,11,13,4,2,1,0,0,0,D
+Cremonese,Benevento,16,8,5,2,5,2,15,16,2,2,0,0,0,0,A
+Ascoli,Perugia,12,14,2,3,2,5,20,17,4,2,0,0,0,0,A
+Trapani,Pordenone,16,10,6,1,4,3,19,17,2,3,0,0,1,0,H
+Chievo,Spezia,10,15,2,6,6,5,14,17,1,2,0,0,0,0,A
+Cremonese,Cosenza,20,13,2,5,6,5,21,14,1,3,0,1,0,1,A
+Empoli,Benevento,11,13,4,4,7,1,17,15,2,1,0,0,0,0,D
+Frosinone,Cittadella,21,10,9,3,9,5,17,24,2,7,0,0,0,1,A
+Juve Stabia,Livorno,19,11,3,3,5,4,22,27,6,2,2,1,1,0,A
+Perugia,Crotone,7,16,5,5,3,12,14,16,3,3,1,0,0,0,D
+Pisa,Pescara,13,8,4,3,8,3,16,20,2,6,0,1,1,0,H
+Venezia,Ascoli,14,16,3,6,7,4,12,17,2,4,0,0,1,1,H
+Virtus Entella,Salernitana,9,7,5,2,5,4,16,18,2,3,0,0,0,0,H
+Salernitana,Cremonese,14,13,5,9,10,4,19,16,3,3,1,1,0,1,D
+Ascoli,Crotone,6,18,2,3,3,6,14,14,4,2,0,0,0,0,D
+Benevento,Juve Stabia,10,10,3,3,4,5,9,15,2,2,1,0,0,0,H
+Chievo,Frosinone,17,8,7,1,6,2,13,18,3,1,0,0,0,0,H
+Cittadella,Perugia,11,11,1,4,5,5,15,18,3,2,0,0,1,0,H
+Cosenza,Trapani,10,8,8,5,14,3,16,15,3,4,0,1,1,2,D
+Livorno,Venezia,13,12,2,5,4,5,18,16,1,1,0,0,0,2,A
+Pescara,Empoli,14,10,3,3,3,3,8,21,2,2,0,0,0,0,D
+Pordenone,Virtus Entella,13,17,5,3,2,12,17,16,3,3,0,0,0,0,H
+Spezia,Pisa,12,8,2,4,5,3,15,10,4,0,0,0,1,1,A
+Pisa,Cittadella,6,14,4,2,1,6,17,12,4,2,0,0,1,0,H
+Cosenza,Ascoli,15,9,6,5,6,2,13,20,2,3,0,0,0,0,A
+Cremonese,Pescara,9,14,2,4,2,5,19,11,2,2,0,0,1,0,H
+Crotone,Benevento,7,11,4,2,4,4,12,12,3,5,0,0,2,0,H
+Frosinone,Spezia,12,6,3,0,3,1,13,15,1,2,0,0,1,0,H
+Perugia,Pordenone,13,9,1,4,3,5,16,15,4,4,1,0,1,2,A
+Salernitana,Juve Stabia,13,18,6,6,3,9,14,23,4,7,2,0,1,0,H
+Trapani,Livorno,20,6,6,2,4,0,19,21,3,5,0,0,0,0,H
+Venezia,Empoli,13,17,3,10,2,6,20,11,1,2,0,0,0,0,A
+Virtus Entella,Chievo,13,21,5,9,2,5,15,15,3,2,0,0,1,0,D
+Juve Stabia,Virtus Entella,8,13,0,5,5,3,12,10,1,1,1,1,0,1,D
+Ascoli,Salernitana,11,18,5,7,2,9,17,18,3,2,0,0,2,0,H
+Benevento,Venezia,12,8,3,3,3,2,19,17,1,3,0,0,0,0,D
+Chievo,Trapani,21,22,8,7,6,7,14,16,2,3,0,0,1,0,D
+Cittadella,Crotone,10,14,6,6,5,4,16,15,4,3,0,0,0,2,A
+Empoli,Frosinone,12,19,3,3,1,9,16,17,2,3,0,1,1,0,H
+Livorno,Cremonese,3,19,1,7,3,6,10,12,1,2,0,0,0,1,A
+Pescara,Perugia,10,12,4,3,4,3,13,15,2,4,0,0,2,2,D
+Pordenone,Pisa,13,18,2,5,2,7,19,12,3,0,0,0,0,0,H
+Spezia,Cosenza,15,6,6,4,5,4,11,12,2,3,0,0,2,0,H
+Cosenza,Perugia,16,15,3,3,4,5,15,16,2,1,0,0,1,0,H
+Ascoli,Empoli,12,13,3,4,4,4,24,16,5,2,0,0,1,0,H
+Cremonese,Chievo,9,8,4,1,5,7,17,8,1,2,0,0,0,0,H
+Crotone,Pordenone,8,14,4,2,9,6,16,20,1,3,0,0,1,0,H
+Frosinone,Juve Stabia,12,12,4,7,8,4,16,19,3,5,1,0,1,1,D
+Livorno,Spezia,4,16,1,7,0,9,19,9,1,1,1,0,0,0,A
+Salernitana,Cittadella,17,6,6,1,3,4,18,20,1,1,0,0,2,1,H
+Trapani,Benevento,11,13,5,2,7,4,17,17,1,3,0,0,1,0,H
+Venezia,Pescara,14,8,3,4,7,3,24,7,6,2,1,1,0,0,D
+Virtus Entella,Pisa,14,11,5,4,7,4,10,16,2,3,0,0,0,1,D
+Pescara,Frosinone,14,12,8,3,3,6,18,31,2,2,0,0,1,0,D
+Benevento,Livorno,27,14,8,7,3,7,13,16,2,1,0,0,1,0,H
+Cittadella,Ascoli,13,9,4,4,3,6,19,18,4,5,0,0,0,0,A
+Crotone,Salernitana,17,6,6,1,3,2,13,27,0,5,0,1,0,0,D
+Empoli,Virtus Entella,15,18,4,9,4,4,12,17,2,3,2,0,2,1,A
+Juve Stabia,Chievo,15,11,4,2,4,2,13,20,3,3,1,0,0,1,H
+Perugia,Cremonese,9,13,5,8,3,5,11,12,1,2,0,0,0,0,D
+Pisa,Trapani,16,10,5,4,2,2,20,20,7,4,0,1,1,0,H
+Pordenone,Cosenza,21,10,4,4,2,4,11,15,1,1,0,0,0,2,A
+Spezia,Venezia,28,6,7,2,8,3,16,15,2,2,0,0,0,1,A
+Livorno,Crotone,6,22,3,10,2,4,16,9,1,0,0,0,1,3,A
+Ascoli,Pordenone,19,14,7,5,6,3,16,10,3,2,0,0,1,2,D
+Chievo,Cittadella,17,5,8,3,9,2,10,10,1,4,0,1,2,1,H
+Cosenza,Pisa,14,12,4,5,5,2,10,17,3,2,0,0,1,0,H
+Cremonese,Spezia,6,11,1,7,3,8,17,11,3,0,0,0,0,0,D
+Frosinone,Benevento,15,18,4,5,4,4,19,17,2,3,0,0,1,3,A
+Salernitana,Empoli,16,16,5,10,4,6,18,16,1,2,1,0,1,3,A
+Trapani,Pescara,14,20,7,8,6,4,20,14,3,2,0,1,1,0,H
+Venezia,Juve Stabia,9,9,5,2,4,7,19,14,3,3,0,0,1,0,H
+Virtus Entella,Perugia,20,7,4,3,6,4,18,16,2,2,0,0,0,2,A
+Benevento,Chievo,21,8,6,2,4,5,13,18,2,0,0,0,0,1,A
+Cittadella,Venezia,14,6,4,1,3,2,21,13,3,3,0,0,0,0,H
+Crotone,Frosinone,8,4,2,1,5,3,20,17,5,2,0,0,0,0,H
+Empoli,Cosenza,22,18,2,12,8,5,13,9,2,1,0,0,0,3,A
+Juve Stabia,Cremonese,14,9,5,6,10,4,13,20,1,4,0,0,0,1,A
+Perugia,Trapani,11,16,5,6,4,10,11,18,3,4,0,0,1,1,A
+Pescara,Livorno,12,4,4,1,5,3,14,10,7,1,0,0,0,0,H
+Pisa,Ascoli,8,12,2,1,2,7,21,10,5,2,0,0,1,0,H
+Pordenone,Salernitana,9,13,4,4,2,5,22,16,3,4,0,0,1,1,D
+Spezia,Virtus Entella,8,7,3,1,3,3,17,13,2,1,0,0,0,0,D
+Ascoli,Benevento,18,16,5,7,7,2,18,13,1,1,0,0,0,3,A
+Chievo,Pescara,17,3,6,1,4,1,6,14,1,2,0,0,0,0,H
+Cosenza,Juve Stabia,18,28,8,14,4,10,15,17,2,5,0,0,2,1,H
+Cremonese,Pordenone,18,4,8,2,8,4,2,5,2,1,0,0,1,1,D
+Frosinone,Pisa,16,13,3,3,5,0,16,25,1,3,0,0,0,0,D
+Livorno,Empoli,14,20,5,6,4,9,7,6,2,1,0,0,0,1,A
+Salernitana,Spezia,13,20,5,6,5,4,12,10,4,2,1,0,1,1,A
+Trapani,Crotone,11,14,5,3,4,9,6,11,2,2,0,0,0,0,H
+Venezia,Perugia,20,10,6,6,2,3,14,18,2,2,0,1,1,0,H
+Virtus Entella,Cittadella,14,15,6,5,3,5,19,25,2,4,0,0,2,2,A
