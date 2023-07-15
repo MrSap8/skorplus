@@ -87,8 +87,8 @@ if (selected == 'Liga Spanyol') :
         
         prediksi = modelSpain.predict([[HomeTeam, AwayTeam, HS, AS, HST, AST, HC, AC, HF, AF, HY, AY, HR, AR, HTHG, HTAG]])
 
-        st.write("nilai yang dipilih :", HomeTeam)
-        st.write("nilai yang dipilih :", AwayTeam)
+        #st.write("nilai yang dipilih :", HomeTeam)
+        #st.write("nilai yang dipilih :", AwayTeam)
 
         if (prediksi==0):
             hasil_prediksi = 'Tim Tandang Menang (A)'
@@ -176,11 +176,11 @@ if (selected == 'Liga Prancis') :
         prediksi = modelFrance.predict([[HomeTeam, AwayTeam, HS, AS, HST, AST, HC, AC, HF, AF, HY, AY, HR, AR, HTHG, HTAG]])
 
         if (prediksi==0):
-            hasil_prediksi = 'Tim Tandang Menang'
+            hasil_prediksi = 'Tim Tandang Menang (A)'
         elif (prediksi==1):
-            hasil_prediksi = 'Tidak Ada Tim Yang Menang (Imbang)'
+            hasil_prediksi = 'Tidak Ada Tim Yang Menang (D)'
         else:
-            hasil_prediksi = 'Tim Kandang Menang'
+            hasil_prediksi = 'Tim Kandang Menang (H)'
     st.success(hasil_prediksi)
     
 if (selected == 'Liga Italia') :
@@ -261,11 +261,11 @@ if (selected == 'Liga Italia') :
         prediksi = modelItaly.predict([[HomeTeam, AwayTeam, HS, AS, HST, AST, HC, AC, HF, AF, HY, AY, HR, AR, HTHG, HTAG]])
 
         if (prediksi==0):
-            hasil_prediksi = 'Tim Tandang Menang'
+            hasil_prediksi = 'Tim Tandang Menang (A)'
         elif (prediksi==1):
-            hasil_prediksi = 'Tidak Ada Tim Yang Menang (Imbang)'
+            hasil_prediksi = 'Tidak Ada Tim Yang Menang (D)'
         else:
-            hasil_prediksi = 'Tim Kandang Menang'
+            hasil_prediksi = 'Tim Kandang Menang (H)'
     st.success(hasil_prediksi)
 
 if (selected == 'Liga Jerman') :
@@ -344,9 +344,9 @@ if (selected == 'Liga Jerman') :
         prediksi = modelGermany.predict([[HomeTeam, AwayTeam, HS, AS, HST, AST, HC, AC, HF, AF, HY, AY, HR, AR, HTHG, HTAG]])
 
         if (prediksi==0):
-            hasil_prediksi = 'Tim Tandang Menang'
+            hasil_prediksi = 'Tim Tandang Menang (A)'
         elif (prediksi==1):
-            hasil_prediksi = 'Tidak Ada Tim Yang Menang (Imbang)'
+            hasil_prediksi = 'Tidak Ada Tim Yang Menang (D)'
         else:
-            hasil_prediksi = 'Tim Kandang Menang'
+            hasil_prediksi = 'Tim Kandang Menang (H)'
     st.success(hasil_prediksi)
